@@ -1,0 +1,2001 @@
+PassengerId,Name,Age,Sex,Pclass,Fare,Embarked,Survived,Age_Group,Fare_Category,Survival_Status
+1,Alex Smith,20,female,1,452.12,S,0,Adult,Very High,Not Survived
+2,Alex Brown,40,female,2,269.395,Q,0,Adult,High,Not Survived
+3,Sara Taylor,72,female,2,269.395,S,1,Senior,High,Survived
+4,Mary Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+5,Mary Brown,21,male,3,174.39,C,1,Adult,High,Survived
+6,Sara Smith,40,female,2,280.04,Q,0,Adult,High,Not Survived
+7,David Brown,3,male,1,405.42,S,1,Child,Very High,Survived
+8,Alex Taylor,40,male,2,411.73,Q,0,Adult,Very High,Not Survived
+9,Sophia Taylor,74,male,3,29.46,S,0,Senior,Low,Not Survived
+10,Mary Brown,8,female,3,46.44,C,0,Child,Low,Not Survived
+11,David Smith,40,female,1,22.08,S,0,Adult,Low,Not Survived
+12,Emma Brown,40,female,3,269.395,C,0,Adult,High,Not Survived
+13,Chris Brown,40,female,3,198.39,Q,0,Adult,High,Not Survived
+14,Emma Smith,40,male,2,269.395,C,0,Adult,High,Not Survived
+15,David Smith,40,female,3,252.02,Q,0,Adult,High,Not Survived
+16,Emma Taylor,13,female,2,269.395,C,1,Teen,High,Survived
+17,Chris Smith,18,male,1,22.94,S,0,Teen,Low,Not Survived
+18,Alex Brown,40,female,2,493.09,S,0,Adult,Very High,Not Survived
+19,Alex Brown,63,female,2,98.77,S,1,Senior,Medium,Survived
+20,Mary Brown,40,male,1,39.3,Q,0,Adult,Low,Not Survived
+21,John Taylor,25,female,3,269.395,C,0,Adult,High,Not Survived
+22,Sara Taylor,54,female,3,269.395,S,0,Adult,High,Not Survived
+23,Sophia Taylor,31,male,2,235.33,Q,0,Adult,High,Not Survived
+24,Chris Smith,40,male,1,159.43,Q,1,Adult,High,Survived
+25,David Brown,56,female,2,269.395,S,0,Adult,High,Not Survived
+26,Emma Taylor,40,male,1,134.43,C,1,Adult,Medium,Survived
+27,David Smith,40,female,3,326.96,S,1,Adult,Very High,Survived
+28,Sara Smith,40,female,1,269.395,C,1,Adult,High,Survived
+29,David Smith,78,male,3,235.96,C,1,Senior,High,Survived
+30,John Smith,40,male,3,269.395,C,1,Adult,High,Survived
+31,David Taylor,13,female,2,269.395,S,1,Teen,High,Survived
+32,David Smith,62,female,1,269.395,C,0,Senior,High,Not Survived
+33,Sara Smith,15,female,2,214.84,S,1,Teen,High,Survived
+34,Sara Smith,67,female,2,269.395,C,0,Senior,High,Not Survived
+35,Alex Taylor,16,female,1,269.395,C,0,Teen,High,Not Survived
+36,Emma Brown,40,male,2,487.05,Q,0,Adult,Very High,Not Survived
+37,Emma Taylor,40,female,1,46.76,S,1,Adult,Low,Survived
+38,Alex Taylor,40,female,1,372.49,S,1,Adult,Very High,Survived
+39,John Brown,17,female,2,304.88,C,0,Teen,Very High,Not Survived
+40,Sara Smith,40,male,3,269.395,S,0,Adult,High,Not Survived
+41,Emma Brown,32,female,2,233.12,S,1,Adult,High,Survived
+42,Mary Brown,48,male,3,76.88,Q,1,Adult,Medium,Survived
+43,Alex Taylor,38,female,2,269.395,S,1,Adult,High,Survived
+44,Sara Taylor,40,female,3,269.395,Q,0,Adult,High,Not Survived
+45,Sophia Brown,40,female,1,269.395,S,1,Adult,High,Survived
+46,Chris Smith,40,male,3,47.98,Q,1,Adult,Low,Survived
+47,Sara Smith,40,male,2,280.47,S,1,Adult,High,Survived
+48,John Smith,42,female,2,269.395,Q,0,Adult,High,Not Survived
+49,David Taylor,40,female,3,269.395,C,1,Adult,High,Survived
+50,Emma Smith,6,female,2,458.07,S,0,Child,Very High,Not Survived
+51,Sophia Taylor,40,female,1,269.395,Q,1,Adult,High,Survived
+52,Mary Brown,77,female,1,269.395,S,0,Senior,High,Not Survived
+53,Sophia Brown,40,female,1,269.395,Q,0,Adult,High,Not Survived
+54,Sophia Brown,40,female,3,405.89,S,0,Adult,Very High,Not Survived
+55,Emma Smith,72,female,2,276.48,Q,0,Senior,High,Not Survived
+56,Alex Brown,40,female,2,478.51,S,0,Adult,Very High,Not Survived
+57,Emma Taylor,40,female,3,217.82,Q,1,Adult,High,Survived
+58,Mary Smith,40,female,2,269.395,Q,0,Adult,High,Not Survived
+59,Chris Taylor,32,female,2,104.42,Q,1,Adult,Medium,Survived
+60,Chris Smith,40,female,3,325.74,S,1,Adult,Very High,Survived
+61,Mary Brown,40,male,1,269.395,S,1,Adult,High,Survived
+62,John Brown,40,female,1,269.395,S,0,Adult,High,Not Survived
+63,Sophia Taylor,40,male,2,281.89,S,1,Adult,High,Survived
+64,Emma Brown,22,female,2,269.395,Q,1,Adult,High,Survived
+65,Chris Taylor,4,female,1,457.85,Q,1,Child,Very High,Survived
+66,Chris Smith,40,female,2,29.06,S,1,Adult,Low,Survived
+67,John Brown,21,male,1,94.4,S,0,Adult,Medium,Not Survived
+68,David Brown,40,female,1,260.04,S,1,Adult,High,Survived
+69,Chris Taylor,13,female,2,361.67,Q,1,Teen,Very High,Survived
+70,Mary Brown,57,male,2,269.395,S,1,Adult,High,Survived
+71,Sophia Taylor,40,male,3,266.86,S,1,Adult,High,Survived
+72,Emma Smith,62,female,1,269.395,S,0,Senior,High,Not Survived
+73,Emma Smith,40,female,3,269.395,S,1,Adult,High,Survived
+74,Alex Smith,14,male,2,394.73,S,1,Teen,Very High,Survived
+75,John Smith,37,male,3,476.9,S,1,Adult,Very High,Survived
+76,Sara Taylor,40,male,2,196.91,S,0,Adult,High,Not Survived
+77,Chris Taylor,40,female,3,165.43,Q,1,Adult,High,Survived
+78,Emma Smith,68,female,2,269.395,C,0,Senior,High,Not Survived
+79,Sophia Taylor,3,male,2,269.395,S,0,Child,High,Not Survived
+80,Alex Taylor,40,female,2,293.25,S,1,Adult,High,Survived
+81,Chris Brown,45,female,3,269.395,S,1,Adult,High,Survived
+82,Sara Smith,60,female,2,126.72,S,1,Adult,Medium,Survived
+83,John Smith,61,female,1,269.395,C,1,Senior,High,Survived
+84,David Taylor,40,female,2,269.395,S,1,Adult,High,Survived
+85,Sara Brown,40,male,3,269.395,Q,0,Adult,High,Not Survived
+86,Sara Smith,40,male,2,140.49,S,0,Adult,Medium,Not Survived
+87,Sophia Brown,47,male,3,201.73,S,1,Adult,High,Survived
+88,Alex Taylor,52,female,2,360.56,Q,0,Adult,Very High,Not Survived
+89,Mary Brown,51,male,2,269.395,S,0,Adult,High,Not Survived
+90,Emma Brown,40,male,2,304.78,S,1,Adult,Very High,Survived
+91,Mary Smith,40,female,3,269.395,S,0,Adult,High,Not Survived
+92,John Taylor,8,female,2,269.395,S,0,Child,High,Not Survived
+93,Alex Smith,4,female,3,269.395,S,0,Child,High,Not Survived
+94,Sophia Taylor,40,male,2,269.395,S,0,Adult,High,Not Survived
+95,John Smith,40,female,1,281.65,Q,0,Adult,High,Not Survived
+96,Mary Taylor,31,male,3,269.395,C,1,Adult,High,Survived
+97,David Brown,40,male,3,333.01,C,0,Adult,Very High,Not Survived
+98,Alex Smith,10,male,1,269.395,C,1,Child,High,Survived
+99,Alex Brown,40,female,1,151.27,C,1,Adult,High,Survived
+100,David Brown,64,female,1,269.395,Q,0,Senior,High,Not Survived
+101,Emma Taylor,40,female,3,137.44,Q,1,Adult,Medium,Survived
+102,David Smith,40,male,1,269.395,S,0,Adult,High,Not Survived
+103,Chris Brown,40,male,3,269.395,Q,1,Adult,High,Survived
+104,Mary Taylor,29,male,2,269.395,Q,0,Adult,High,Not Survived
+105,David Brown,38,male,1,390.98,Q,1,Adult,Very High,Survived
+106,John Smith,78,female,1,269.395,C,1,Senior,High,Survived
+107,Chris Smith,40,female,2,269.395,C,1,Adult,High,Survived
+108,John Taylor,40,female,2,269.395,S,0,Adult,High,Not Survived
+109,Sara Smith,40,female,3,269.395,S,0,Adult,High,Not Survived
+110,Sara Brown,40,male,3,269.395,C,1,Adult,High,Survived
+111,Sophia Taylor,60,female,2,269.395,S,1,Adult,High,Survived
+112,Chris Smith,74,male,3,199.89,Q,1,Senior,High,Survived
+113,Alex Smith,72,male,3,269.395,S,1,Senior,High,Survived
+114,Sara Taylor,40,male,3,269.395,S,1,Adult,High,Survived
+115,Emma Brown,74,male,1,65.18,C,1,Senior,Medium,Survived
+116,David Brown,40,female,2,339.86,S,0,Adult,Very High,Not Survived
+117,Chris Taylor,40,female,2,269.395,S,0,Adult,High,Not Survived
+118,John Brown,8,female,1,269.395,S,0,Child,High,Not Survived
+119,Mary Brown,28,male,1,311.42,S,0,Adult,Very High,Not Survived
+120,Sophia Taylor,40,female,1,457.41,S,0,Adult,Very High,Not Survived
+121,Sophia Taylor,40,female,3,195.22,C,1,Adult,High,Survived
+122,Alex Brown,47,female,1,269.395,S,0,Adult,High,Not Survived
+123,Sara Brown,40,female,1,28.92,S,0,Adult,Low,Not Survived
+124,Mary Smith,77,female,2,113.38,S,1,Senior,Medium,Survived
+125,Mary Taylor,40,female,1,269.395,S,0,Adult,High,Not Survived
+126,Emma Taylor,80,female,1,209.52,C,0,Senior,High,Not Survived
+127,Alex Smith,40,male,3,269.395,S,0,Adult,High,Not Survived
+128,Sara Brown,27,female,2,269.395,Q,1,Adult,High,Survived
+129,Sophia Brown,40,female,3,171.85,Q,1,Adult,High,Survived
+130,David Brown,40,female,2,491.2,S,1,Adult,Very High,Survived
+131,Sophia Taylor,40,female,1,269.395,C,0,Adult,High,Not Survived
+132,Sophia Brown,39,male,3,438.76,S,1,Adult,Very High,Survived
+133,Chris Brown,40,female,1,394.7,S,1,Adult,Very High,Survived
+134,Chris Brown,40,male,1,269.395,S,1,Adult,High,Survived
+135,Chris Brown,40,male,1,269.395,S,0,Adult,High,Not Survived
+136,John Smith,40,female,3,14.31,S,1,Adult,Low,Survived
+137,Emma Smith,40,male,2,148.37,S,0,Adult,Medium,Not Survived
+138,Chris Taylor,79,female,3,269.395,S,0,Senior,High,Not Survived
+139,Sara Brown,60,female,3,393.45,S,0,Adult,Very High,Not Survived
+140,Sara Brown,40,female,1,269.395,S,0,Adult,High,Not Survived
+141,David Smith,40,male,2,269.395,C,0,Adult,High,Not Survived
+142,Chris Taylor,15,female,2,9.93,C,1,Teen,Low,Survived
+143,Alex Taylor,40,female,2,85.21,S,1,Adult,Medium,Survived
+144,Mary Smith,40,male,3,230.72,S,1,Adult,High,Survived
+145,Sara Smith,42,female,3,444.91,S,0,Adult,Very High,Not Survived
+146,Alex Smith,40,female,2,126.45,S,0,Adult,Medium,Not Survived
+147,Emma Brown,4,female,3,178.75,S,1,Child,High,Survived
+148,Emma Smith,47,female,3,85.48,Q,0,Adult,Medium,Not Survived
+149,Sara Smith,40,male,3,471.96,S,0,Adult,Very High,Not Survived
+150,David Taylor,38,female,2,93.18,C,0,Adult,Medium,Not Survived
+151,Sophia Smith,49,female,1,452.18,Q,1,Adult,Very High,Survived
+152,Alex Brown,40,female,2,269.395,C,1,Adult,High,Survived
+153,Emma Taylor,40,male,3,40.84,S,1,Adult,Low,Survived
+154,Sophia Smith,50,female,1,269.395,Q,1,Adult,High,Survived
+155,Chris Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+156,Sophia Smith,40,male,1,173.45,S,0,Adult,High,Not Survived
+157,John Smith,40,female,2,120.07,S,0,Adult,Medium,Not Survived
+158,Alex Smith,40,female,2,155.69,S,0,Adult,High,Not Survived
+159,John Brown,40,female,2,269.395,C,1,Adult,High,Survived
+160,Sara Taylor,11,female,2,284.39,Q,0,Child,High,Not Survived
+161,David Brown,62,male,1,269.395,C,0,Senior,High,Not Survived
+162,John Taylor,69,female,3,425.83,C,0,Senior,Very High,Not Survived
+163,John Taylor,6,female,1,269.395,S,1,Child,High,Survived
+164,Alex Brown,40,female,1,65.31,S,0,Adult,Medium,Not Survived
+165,John Taylor,75,male,3,363.87,S,1,Senior,Very High,Survived
+166,Mary Smith,40,female,2,269.395,S,0,Adult,High,Not Survived
+167,Mary Brown,40,female,2,269.395,Q,1,Adult,High,Survived
+168,Emma Brown,20,female,2,269.395,S,0,Adult,High,Not Survived
+169,Mary Brown,40,male,2,122.34,Q,0,Adult,Medium,Not Survived
+170,Chris Brown,40,male,1,269.395,Q,1,Adult,High,Survived
+171,Chris Taylor,40,female,2,106.6,C,1,Adult,Medium,Survived
+172,Mary Smith,63,female,1,269.395,Q,1,Senior,High,Survived
+173,Chris Brown,40,female,2,269.395,C,0,Adult,High,Not Survived
+174,Mary Brown,40,male,1,196.75,S,1,Adult,High,Survived
+175,Sophia Brown,54,female,3,202.16,S,0,Adult,High,Not Survived
+176,Alex Brown,71,male,1,269.395,S,0,Senior,High,Not Survived
+177,Sophia Smith,40,male,1,269.395,S,0,Adult,High,Not Survived
+178,Sophia Brown,21,male,2,78.98,Q,0,Adult,Medium,Not Survived
+179,Sara Taylor,78,female,3,470.96,S,1,Senior,Very High,Survived
+180,Sara Taylor,40,female,1,269.395,C,1,Adult,High,Survived
+181,Alex Smith,76,female,1,291.12,S,0,Senior,High,Not Survived
+182,David Taylor,17,female,2,269.395,Q,1,Teen,High,Survived
+183,Sara Taylor,40,male,3,8.59,Q,0,Adult,Low,Not Survived
+184,Emma Brown,47,female,2,295.79,S,0,Adult,High,Not Survived
+185,Emma Taylor,65,female,3,455.64,Q,1,Senior,Very High,Survived
+186,Mary Brown,64,female,3,443.41,S,1,Senior,Very High,Survived
+187,Mary Brown,13,female,1,67.78,Q,0,Teen,Medium,Not Survived
+188,Alex Brown,39,female,3,141.45,C,0,Adult,Medium,Not Survived
+189,Emma Taylor,40,female,1,9.28,C,1,Adult,Low,Survived
+190,Mary Brown,40,female,1,42.75,C,0,Adult,Low,Not Survived
+191,Mary Brown,22,male,1,269.395,S,1,Adult,High,Survived
+192,Mary Smith,40,female,3,269.395,S,0,Adult,High,Not Survived
+193,Sara Taylor,66,male,1,177.21,Q,1,Senior,High,Survived
+194,Mary Brown,40,female,3,269.395,C,1,Adult,High,Survived
+195,Sophia Brown,40,male,2,269.395,S,1,Adult,High,Survived
+196,John Taylor,15,male,3,269.395,C,1,Teen,High,Survived
+197,Alex Taylor,67,male,1,269.395,C,0,Senior,High,Not Survived
+198,Mary Brown,40,female,2,110.4,Q,0,Adult,Medium,Not Survived
+199,Emma Smith,4,male,2,269.395,S,1,Child,High,Survived
+200,John Brown,40,male,1,81.39,S,1,Adult,Medium,Survived
+201,Sophia Brown,40,female,2,269.395,S,1,Adult,High,Survived
+202,Emma Brown,67,male,1,269.395,S,1,Senior,High,Survived
+203,Chris Taylor,12,female,2,269.395,S,0,Child,High,Not Survived
+204,David Brown,67,female,3,269.395,Q,0,Senior,High,Not Survived
+205,Sophia Taylor,40,female,2,269.395,C,1,Adult,High,Survived
+206,Sophia Brown,40,female,2,269.395,S,1,Adult,High,Survived
+207,David Brown,63,male,2,459.94,S,0,Senior,Very High,Not Survived
+208,David Smith,40,female,2,269.395,Q,0,Adult,High,Not Survived
+209,Sophia Taylor,52,male,1,189.11,C,1,Adult,High,Survived
+210,Mary Smith,40,female,1,269.395,Q,1,Adult,High,Survived
+211,Emma Smith,33,female,3,269.395,S,0,Adult,High,Not Survived
+212,Mary Brown,40,male,1,269.395,C,0,Adult,High,Not Survived
+213,Sophia Taylor,40,female,3,314.66,S,0,Adult,Very High,Not Survived
+214,David Taylor,40,male,2,170.37,C,1,Adult,High,Survived
+215,Sophia Smith,40,male,2,269.395,Q,1,Adult,High,Survived
+216,Sara Taylor,40,female,1,269.395,C,1,Adult,High,Survived
+217,Chris Smith,38,male,2,313.63,S,0,Adult,Very High,Not Survived
+218,Chris Taylor,59,female,2,18.15,Q,1,Adult,Low,Survived
+219,David Brown,77,male,3,158.59,C,0,Senior,High,Not Survived
+220,Alex Brown,74,female,3,236.52,C,0,Senior,High,Not Survived
+221,Mary Brown,40,male,3,269.395,C,1,Adult,High,Survived
+222,Emma Taylor,35,female,2,457.96,Q,1,Adult,Very High,Survived
+223,John Taylor,69,male,3,269.395,Q,0,Senior,High,Not Survived
+224,Alex Brown,40,male,3,403.63,S,0,Adult,Very High,Not Survived
+225,Alex Brown,40,female,2,269.395,Q,1,Adult,High,Survived
+226,David Brown,40,female,3,269.395,Q,1,Adult,High,Survived
+227,Emma Brown,65,female,1,336.6,Q,0,Senior,Very High,Not Survived
+228,John Taylor,2,male,3,413.8,Q,1,Child,Very High,Survived
+229,Emma Smith,40,female,3,286.15,Q,0,Adult,High,Not Survived
+230,John Taylor,40,male,2,269.395,S,0,Adult,High,Not Survived
+231,Chris Taylor,40,female,3,269.395,S,0,Adult,High,Not Survived
+232,Sophia Brown,58,female,2,269.395,C,1,Adult,High,Survived
+233,David Taylor,8,male,1,154.66,S,0,Child,High,Not Survived
+234,David Taylor,46,female,2,269.395,S,0,Adult,High,Not Survived
+235,Mary Smith,76,female,2,269.395,C,1,Senior,High,Survived
+236,Alex Taylor,57,female,3,269.395,S,1,Adult,High,Survived
+237,Mary Smith,33,female,1,269.395,S,1,Adult,High,Survived
+238,Chris Taylor,40,female,2,269.395,C,0,Adult,High,Not Survived
+239,Alex Taylor,12,male,2,409.41,Q,0,Child,Very High,Not Survived
+240,Emma Smith,40,female,2,377.35,S,1,Adult,Very High,Survived
+241,Chris Smith,40,male,2,338.41,C,1,Adult,Very High,Survived
+242,Sara Smith,73,male,2,269.395,Q,0,Senior,High,Not Survived
+243,Chris Taylor,55,female,1,93.95,S,1,Adult,Medium,Survived
+244,Chris Taylor,44,female,1,269.395,S,0,Adult,High,Not Survived
+245,Sophia Brown,40,female,3,301.58,S,0,Adult,Very High,Not Survived
+246,Alex Taylor,40,female,2,269.395,S,0,Adult,High,Not Survived
+247,Chris Taylor,40,female,3,137.78,Q,0,Adult,Medium,Not Survived
+248,Alex Brown,40,female,1,269.395,Q,0,Adult,High,Not Survived
+249,David Brown,68,male,1,269.395,S,1,Senior,High,Survived
+250,Sara Taylor,52,male,3,491.76,S,0,Adult,Very High,Not Survived
+251,Sophia Smith,10,male,3,450.37,Q,1,Child,Very High,Survived
+252,John Taylor,78,male,1,469.1,Q,1,Senior,Very High,Survived
+253,Sara Brown,35,female,3,78.79,C,1,Adult,Medium,Survived
+254,Chris Brown,35,female,1,52.23,S,1,Adult,Medium,Survived
+255,John Brown,40,female,2,105.38,S,1,Adult,Medium,Survived
+256,Emma Brown,40,female,1,351.32,S,1,Adult,Very High,Survived
+257,Alex Taylor,40,female,1,392.58,S,0,Adult,Very High,Not Survived
+258,Sophia Brown,40,male,2,269.395,S,1,Adult,High,Survived
+259,David Brown,40,male,1,336.56,Q,1,Adult,Very High,Survived
+260,Emma Smith,12,female,3,132.14,Q,0,Child,Medium,Not Survived
+261,Chris Smith,40,female,2,449.02,S,0,Adult,Very High,Not Survived
+262,David Taylor,40,female,3,219.85,S,0,Adult,High,Not Survived
+263,Sophia Brown,71,male,2,269.395,S,1,Senior,High,Survived
+264,Mary Brown,40,female,3,364.29,S,1,Adult,Very High,Survived
+265,Sara Brown,48,female,2,308.08,Q,1,Adult,Very High,Survived
+266,John Brown,40,male,3,269.395,C,1,Adult,High,Survived
+267,Chris Brown,1,female,2,269.395,C,0,Child,High,Not Survived
+268,David Smith,40,female,3,269.395,C,1,Adult,High,Survived
+269,Sara Smith,40,female,2,269.395,S,1,Adult,High,Survived
+270,John Smith,40,female,2,269.395,S,1,Adult,High,Survived
+271,Chris Smith,49,female,1,269.395,S,0,Adult,High,Not Survived
+272,Mary Smith,40,male,2,269.395,Q,1,Adult,High,Survived
+273,Mary Brown,12,female,2,269.395,S,1,Child,High,Survived
+274,Sophia Taylor,40,female,2,108.61,S,1,Adult,Medium,Survived
+275,Chris Taylor,40,female,1,269.395,S,0,Adult,High,Not Survived
+276,Chris Taylor,40,female,3,269.395,C,0,Adult,High,Not Survived
+277,Chris Brown,40,male,2,269.395,C,0,Adult,High,Not Survived
+278,Emma Brown,73,female,3,249.5,Q,0,Senior,High,Not Survived
+279,Sophia Smith,40,female,3,269.395,C,0,Adult,High,Not Survived
+280,John Smith,43,female,3,128.4,Q,0,Adult,Medium,Not Survived
+281,Alex Taylor,69,female,1,377.57,S,1,Senior,Very High,Survived
+282,Alex Smith,8,male,2,162.46,S,0,Child,High,Not Survived
+283,Emma Smith,1,female,2,206.36,Q,0,Child,High,Not Survived
+284,Alex Taylor,40,male,1,479.22,S,1,Adult,Very High,Survived
+285,Sophia Taylor,65,female,2,269.395,S,0,Senior,High,Not Survived
+286,David Brown,40,male,1,131.76,S,0,Adult,Medium,Not Survived
+287,John Brown,40,female,2,271.52,S,1,Adult,High,Survived
+288,Sophia Brown,40,female,2,269.395,Q,1,Adult,High,Survived
+289,Sara Smith,75,female,1,495.18,S,1,Senior,Very High,Survived
+290,Sophia Taylor,15,female,3,269.395,S,1,Teen,High,Survived
+291,Chris Brown,40,female,1,335.07,Q,0,Adult,Very High,Not Survived
+292,John Smith,40,female,2,451.4,C,1,Adult,Very High,Survived
+293,Mary Taylor,34,female,3,269.395,C,1,Adult,High,Survived
+294,David Smith,40,female,2,269.395,Q,1,Adult,High,Survived
+295,Alex Smith,20,female,3,489.54,S,1,Adult,Very High,Survived
+296,John Brown,40,male,2,269.395,C,0,Adult,High,Not Survived
+297,Sara Taylor,40,male,2,164.72,C,1,Adult,High,Survived
+298,Sara Brown,40,female,3,83.63,C,0,Adult,Medium,Not Survived
+299,Chris Smith,74,female,3,269.395,Q,0,Senior,High,Not Survived
+300,John Smith,40,female,1,269.395,C,1,Adult,High,Survived
+301,David Taylor,39,female,2,173.24,S,1,Adult,High,Survived
+302,Sophia Smith,62,female,2,275.18,S,1,Senior,High,Survived
+303,Sophia Taylor,4,male,1,269.395,S,0,Child,High,Not Survived
+304,Chris Brown,40,male,1,262.16,S,1,Adult,High,Survived
+305,Alex Smith,40,male,2,31.02,S,1,Adult,Low,Survived
+306,Mary Taylor,15,male,1,269.395,C,0,Teen,High,Not Survived
+307,Mary Smith,40,male,2,269.395,Q,0,Adult,High,Not Survived
+308,David Taylor,71,female,2,269.395,C,1,Senior,High,Survived
+309,Sara Taylor,40,male,1,36.02,S,0,Adult,Low,Not Survived
+310,Sophia Smith,50,female,3,371.19,S,0,Adult,Very High,Not Survived
+311,Sara Smith,40,female,1,269.395,S,0,Adult,High,Not Survived
+312,Alex Brown,51,female,2,337.0,S,1,Adult,Very High,Survived
+313,John Brown,69,female,3,269.395,C,0,Senior,High,Not Survived
+314,John Smith,22,male,3,269.395,C,0,Adult,High,Not Survived
+315,Alex Smith,40,female,2,269.395,S,0,Adult,High,Not Survived
+316,Sara Smith,12,female,3,247.36,Q,1,Child,High,Survived
+317,David Smith,9,male,1,269.395,S,1,Child,High,Survived
+318,Mary Brown,52,male,3,269.395,S,0,Adult,High,Not Survived
+319,Chris Smith,52,female,2,269.395,C,0,Adult,High,Not Survived
+320,Sara Brown,41,female,3,269.395,Q,1,Adult,High,Survived
+321,Sophia Smith,40,female,3,209.27,Q,1,Adult,High,Survived
+322,Alex Brown,6,female,2,269.395,S,0,Child,High,Not Survived
+323,John Brown,49,female,1,85.64,S,1,Adult,Medium,Survived
+324,Alex Brown,40,female,2,472.54,Q,1,Adult,Very High,Survived
+325,Mary Taylor,79,male,3,159.43,S,0,Senior,High,Not Survived
+326,Alex Brown,40,male,2,63.62,C,0,Adult,Medium,Not Survived
+327,David Smith,40,female,2,269.395,C,0,Adult,High,Not Survived
+328,David Brown,68,female,2,310.76,C,1,Senior,Very High,Survived
+329,Mary Taylor,40,female,2,499.0,S,1,Adult,Very High,Survived
+330,Emma Smith,78,male,3,269.395,S,1,Senior,High,Survived
+331,David Brown,40,female,1,422.33,Q,1,Adult,Very High,Survived
+332,Mary Taylor,40,female,3,269.395,Q,0,Adult,High,Not Survived
+333,Alex Smith,40,male,1,269.395,C,0,Adult,High,Not Survived
+334,David Smith,14,female,1,269.395,Q,1,Teen,High,Survived
+335,Chris Taylor,21,male,3,269.395,C,0,Adult,High,Not Survived
+336,Alex Smith,40,female,2,269.395,C,0,Adult,High,Not Survived
+337,Mary Taylor,40,female,2,269.395,C,0,Adult,High,Not Survived
+338,Chris Brown,40,female,2,269.395,C,1,Adult,High,Survived
+339,Sara Taylor,64,female,3,269.395,C,0,Senior,High,Not Survived
+340,Alex Brown,32,female,3,180.14,S,0,Adult,High,Not Survived
+341,Alex Brown,40,male,1,269.395,C,1,Adult,High,Survived
+342,Alex Smith,40,female,3,108.02,Q,1,Adult,Medium,Survived
+343,David Taylor,40,female,3,240.9,C,0,Adult,High,Not Survived
+344,Chris Brown,40,male,2,456.1,S,0,Adult,Very High,Not Survived
+345,Sophia Brown,80,male,1,269.395,S,1,Senior,High,Survived
+346,Chris Brown,45,female,1,376.75,S,1,Adult,Very High,Survived
+347,Sophia Brown,40,female,2,269.395,C,1,Adult,High,Survived
+348,Emma Taylor,4,female,2,269.395,Q,0,Child,High,Not Survived
+349,Emma Taylor,40,male,3,455.2,C,0,Adult,Very High,Not Survived
+350,Sara Brown,40,female,2,269.395,S,1,Adult,High,Survived
+351,Emma Taylor,79,female,3,269.395,S,0,Senior,High,Not Survived
+352,David Brown,40,male,2,476.92,Q,1,Adult,Very High,Survived
+353,Emma Smith,40,female,2,269.395,S,0,Adult,High,Not Survived
+354,Chris Smith,40,female,2,291.99,Q,0,Adult,High,Not Survived
+355,Emma Brown,75,female,2,269.395,S,1,Senior,High,Survived
+356,John Brown,40,female,3,269.395,Q,1,Adult,High,Survived
+357,Sophia Taylor,40,female,3,269.395,Q,1,Adult,High,Survived
+358,Emma Smith,4,female,3,269.395,S,1,Child,High,Survived
+359,Emma Brown,40,male,3,339.0,S,1,Adult,Very High,Survived
+360,David Taylor,41,female,2,269.395,C,1,Adult,High,Survived
+361,Chris Taylor,51,male,3,269.395,C,1,Adult,High,Survived
+362,Mary Smith,44,male,2,88.71,C,0,Adult,Medium,Not Survived
+363,Chris Taylor,40,female,2,249.25,Q,0,Adult,High,Not Survived
+364,Sophia Brown,40,male,1,269.395,S,0,Adult,High,Not Survived
+365,Emma Taylor,40,male,3,464.9,C,0,Adult,Very High,Not Survived
+366,John Smith,17,female,3,277.2,S,0,Teen,High,Not Survived
+367,David Brown,40,female,2,407.78,Q,0,Adult,Very High,Not Survived
+368,John Taylor,5,female,1,269.395,Q,1,Child,High,Survived
+369,David Smith,70,female,3,269.395,Q,1,Senior,High,Survived
+370,Alex Brown,25,female,1,269.395,S,0,Adult,High,Not Survived
+371,Chris Smith,40,female,2,269.395,C,1,Adult,High,Survived
+372,Chris Taylor,40,female,3,259.78,C,1,Adult,High,Survived
+373,John Taylor,38,male,1,269.395,Q,1,Adult,High,Survived
+374,David Smith,6,male,1,269.395,S,0,Child,High,Not Survived
+375,Chris Brown,40,female,2,269.395,S,0,Adult,High,Not Survived
+376,Alex Brown,48,female,3,269.395,Q,0,Adult,High,Not Survived
+377,Emma Smith,40,male,2,269.395,C,1,Adult,High,Survived
+378,John Brown,19,female,1,269.395,Q,0,Adult,High,Not Survived
+379,Emma Taylor,40,female,2,269.395,S,0,Adult,High,Not Survived
+380,David Smith,72,female,2,200.0,Q,1,Senior,High,Survived
+381,Emma Brown,62,female,3,269.395,C,0,Senior,High,Not Survived
+382,Chris Smith,40,female,2,269.395,C,0,Adult,High,Not Survived
+383,Mary Smith,64,female,3,331.05,Q,0,Senior,Very High,Not Survived
+384,Sara Taylor,34,female,3,28.02,S,0,Adult,Low,Not Survived
+385,Chris Smith,40,female,1,262.05,C,0,Adult,High,Not Survived
+386,Alex Smith,38,male,2,269.395,S,0,Adult,High,Not Survived
+387,Chris Brown,72,female,2,225.45,C,0,Senior,High,Not Survived
+388,Sophia Taylor,40,female,3,269.395,Q,0,Adult,High,Not Survived
+389,Chris Taylor,13,female,2,269.395,S,0,Teen,High,Not Survived
+390,Emma Smith,40,female,2,217.07,S,1,Adult,High,Survived
+391,John Brown,37,female,2,269.395,S,1,Adult,High,Survived
+392,John Smith,39,female,3,269.395,S,1,Adult,High,Survived
+393,Emma Taylor,24,female,3,169.68,Q,0,Adult,High,Not Survived
+394,Mary Taylor,74,male,1,269.395,S,0,Senior,High,Not Survived
+395,Sophia Smith,40,female,3,382.52,S,0,Adult,Very High,Not Survived
+396,John Brown,21,female,3,269.395,S,1,Adult,High,Survived
+397,Sara Smith,40,female,3,269.395,S,1,Adult,High,Survived
+398,Emma Taylor,40,male,1,53.62,S,1,Adult,Medium,Survived
+399,Alex Taylor,18,male,1,269.395,S,0,Teen,High,Not Survived
+400,Alex Taylor,40,female,1,269.395,Q,0,Adult,High,Not Survived
+401,Mary Smith,67,male,1,247.56,S,1,Senior,High,Survived
+402,Sara Smith,40,female,3,269.395,Q,1,Adult,High,Survived
+403,Mary Smith,55,male,3,267.37,Q,0,Adult,High,Not Survived
+404,Emma Taylor,42,male,2,269.395,C,0,Adult,High,Not Survived
+405,Chris Brown,40,female,2,321.53,Q,1,Adult,Very High,Survived
+406,Emma Taylor,24,female,2,269.395,S,0,Adult,High,Not Survived
+407,Chris Brown,6,female,3,269.395,Q,0,Child,High,Not Survived
+408,Sara Taylor,56,male,1,269.395,S,0,Adult,High,Not Survived
+409,Chris Smith,61,female,3,261.31,S,1,Senior,High,Survived
+410,Chris Smith,10,male,3,269.395,S,0,Child,High,Not Survived
+411,Mary Taylor,60,female,3,28.3,C,0,Adult,Low,Not Survived
+412,John Smith,40,male,1,471.67,C,0,Adult,Very High,Not Survived
+413,John Taylor,40,female,3,269.395,S,0,Adult,High,Not Survived
+414,Alex Taylor,40,male,3,269.395,S,1,Adult,High,Survived
+415,John Smith,40,female,1,343.63,Q,0,Adult,Very High,Not Survived
+416,Sara Smith,73,male,3,324.8,C,0,Senior,Very High,Not Survived
+417,Chris Smith,40,female,1,269.395,S,0,Adult,High,Not Survived
+418,Chris Taylor,40,male,1,269.395,Q,1,Adult,High,Survived
+419,Alex Smith,40,female,3,439.46,Q,0,Adult,Very High,Not Survived
+420,Mary Taylor,40,female,2,378.51,S,1,Adult,Very High,Survived
+421,Emma Brown,21,female,2,211.72,Q,1,Adult,High,Survived
+422,Emma Brown,40,male,1,419.5,S,0,Adult,Very High,Not Survived
+423,Sara Brown,60,male,2,354.24,C,0,Adult,Very High,Not Survived
+424,Emma Smith,66,female,1,90.93,Q,0,Senior,Medium,Not Survived
+425,Mary Brown,40,male,3,244.22,S,0,Adult,High,Not Survived
+426,Alex Smith,12,male,3,269.395,Q,1,Child,High,Survived
+427,John Brown,40,female,1,391.2,S,1,Adult,Very High,Survived
+428,Sophia Smith,40,female,1,269.395,C,0,Adult,High,Not Survived
+429,Chris Smith,40,female,3,269.395,C,1,Adult,High,Survived
+430,Emma Brown,40,male,3,102.4,C,0,Adult,Medium,Not Survived
+431,Emma Smith,40,female,3,269.395,C,0,Adult,High,Not Survived
+432,Alex Smith,40,female,3,239.15,C,1,Adult,High,Survived
+433,Alex Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+434,John Taylor,40,male,3,269.395,Q,0,Adult,High,Not Survived
+435,John Brown,40,male,2,377.02,S,1,Adult,Very High,Survived
+436,Sara Brown,40,female,1,421.18,S,0,Adult,Very High,Not Survived
+437,Sophia Smith,28,female,1,269.395,S,1,Adult,High,Survived
+438,Sophia Brown,7,female,2,298.38,S,1,Child,High,Survived
+439,Mary Smith,40,male,1,276.35,Q,1,Adult,High,Survived
+440,Sara Smith,40,male,2,269.395,S,0,Adult,High,Not Survived
+441,Sara Brown,38,female,1,236.6,S,1,Adult,High,Survived
+442,Alex Brown,53,male,2,53.4,C,1,Adult,Medium,Survived
+443,Mary Smith,40,male,2,269.395,Q,1,Adult,High,Survived
+444,Sophia Smith,40,female,1,95.56,Q,0,Adult,Medium,Not Survived
+445,Emma Taylor,80,male,1,269.395,C,0,Senior,High,Not Survived
+446,Mary Brown,37,male,1,269.395,C,1,Adult,High,Survived
+447,John Smith,40,male,2,86.97,Q,0,Adult,Medium,Not Survived
+448,Sara Brown,5,female,3,190.39,Q,0,Child,High,Not Survived
+449,Emma Taylor,40,male,2,167.54,S,0,Adult,High,Not Survived
+450,Sophia Taylor,47,male,3,199.76,S,0,Adult,High,Not Survived
+451,Sara Brown,40,female,2,269.395,S,1,Adult,High,Survived
+452,David Brown,28,male,1,277.17,S,1,Adult,High,Survived
+453,Mary Brown,21,female,2,220.69,Q,1,Adult,High,Survived
+454,Alex Smith,40,female,3,242.18,S,1,Adult,High,Survived
+455,David Brown,23,male,1,269.395,C,1,Adult,High,Survived
+456,Emma Smith,3,female,1,496.32,C,1,Child,Very High,Survived
+457,Emma Smith,40,female,1,43.48,S,0,Adult,Low,Not Survived
+458,Mary Taylor,63,female,3,269.395,Q,1,Senior,High,Survived
+459,John Smith,37,male,2,269.395,S,0,Adult,High,Not Survived
+460,Mary Taylor,40,female,3,414.83,S,0,Adult,Very High,Not Survived
+461,Mary Brown,54,female,2,269.395,C,0,Adult,High,Not Survived
+462,Mary Taylor,40,male,1,352.33,Q,1,Adult,Very High,Survived
+463,Alex Taylor,40,female,2,269.395,C,0,Adult,High,Not Survived
+464,Emma Smith,40,female,1,269.395,Q,0,Adult,High,Not Survived
+465,Mary Brown,66,female,1,87.81,Q,1,Senior,Medium,Survived
+466,David Brown,40,female,2,269.395,C,1,Adult,High,Survived
+467,Sophia Brown,40,female,2,199.36,Q,0,Adult,High,Not Survived
+468,Sophia Brown,70,female,3,212.2,S,0,Senior,High,Not Survived
+469,Sophia Brown,40,female,3,392.12,S,0,Adult,Very High,Not Survived
+470,Chris Smith,25,male,3,269.395,C,1,Adult,High,Survived
+471,Mary Brown,40,female,1,269.395,S,0,Adult,High,Not Survived
+472,Chris Taylor,40,female,1,269.395,S,1,Adult,High,Survived
+473,John Smith,40,female,3,269.395,S,0,Adult,High,Not Survived
+474,Sara Smith,40,female,3,132.53,Q,1,Adult,Medium,Survived
+475,Emma Taylor,40,male,2,202.56,S,0,Adult,High,Not Survived
+476,Sara Brown,51,male,3,269.395,Q,0,Adult,High,Not Survived
+477,Chris Brown,40,female,3,269.395,S,0,Adult,High,Not Survived
+478,Sara Taylor,52,female,2,317.24,Q,0,Adult,Very High,Not Survived
+479,Sara Smith,40,female,2,269.395,Q,0,Adult,High,Not Survived
+480,Mary Brown,32,male,3,269.395,S,1,Adult,High,Survived
+481,Mary Brown,40,female,2,269.395,S,0,Adult,High,Not Survived
+482,John Smith,40,female,2,269.395,S,0,Adult,High,Not Survived
+483,Alex Brown,11,female,3,269.395,S,1,Child,High,Survived
+484,Emma Smith,40,male,3,192.15,C,1,Adult,High,Survived
+485,Sophia Brown,40,female,3,314.28,S,0,Adult,Very High,Not Survived
+486,Mary Smith,10,female,2,119.15,S,1,Child,Medium,Survived
+487,Chris Brown,51,female,3,269.395,Q,1,Adult,High,Survived
+488,Sara Smith,8,female,1,172.61,Q,0,Child,High,Not Survived
+489,Alex Smith,40,female,2,269.395,S,0,Adult,High,Not Survived
+490,Mary Taylor,33,male,3,269.395,S,0,Adult,High,Not Survived
+491,Sophia Smith,21,female,1,383.2,C,0,Adult,Very High,Not Survived
+492,Emma Smith,65,female,3,365.22,S,1,Senior,Very High,Survived
+493,Sophia Brown,40,male,2,248.19,S,0,Adult,High,Not Survived
+494,Mary Taylor,40,female,2,407.41,S,0,Adult,Very High,Not Survived
+495,David Smith,24,female,3,291.56,Q,1,Adult,High,Survived
+496,Sara Brown,24,female,1,94.98,C,1,Adult,Medium,Survived
+497,Chris Brown,58,female,3,269.395,S,1,Adult,High,Survived
+498,Alex Taylor,40,male,1,484.68,C,1,Adult,Very High,Survived
+499,Emma Brown,66,male,3,269.395,S,0,Senior,High,Not Survived
+500,Alex Taylor,33,male,1,269.395,S,1,Adult,High,Survived
+501,David Smith,52,female,1,41.19,S,1,Adult,Low,Survived
+502,Sara Taylor,28,male,3,269.395,Q,1,Adult,High,Survived
+503,Chris Brown,40,female,2,334.65,C,0,Adult,Very High,Not Survived
+504,Alex Brown,78,male,3,269.395,S,1,Senior,High,Survived
+505,Emma Taylor,17,female,2,269.395,S,1,Teen,High,Survived
+506,Chris Smith,7,female,1,123.26,Q,1,Child,Medium,Survived
+507,Chris Smith,40,male,3,96.63,C,0,Adult,Medium,Not Survived
+508,Emma Taylor,79,female,3,120.88,S,0,Senior,Medium,Not Survived
+509,Alex Smith,27,female,3,269.395,S,0,Adult,High,Not Survived
+510,Emma Brown,40,female,2,365.84,C,1,Adult,Very High,Survived
+511,Sophia Taylor,40,male,1,269.395,C,1,Adult,High,Survived
+512,Emma Taylor,40,male,2,131.15,C,0,Adult,Medium,Not Survived
+513,Emma Brown,40,male,3,447.63,S,1,Adult,Very High,Survived
+514,Sara Taylor,40,female,1,269.395,S,0,Adult,High,Not Survived
+515,Emma Taylor,77,female,2,476.0,S,1,Senior,Very High,Survived
+516,Mary Smith,63,female,1,269.395,Q,1,Senior,High,Survived
+517,David Taylor,80,female,3,94.99,S,1,Senior,Medium,Survived
+518,Sophia Smith,40,female,1,113.73,C,1,Adult,Medium,Survived
+519,Chris Brown,40,male,3,269.395,Q,0,Adult,High,Not Survived
+520,John Smith,40,male,2,300.77,Q,0,Adult,Very High,Not Survived
+521,David Brown,40,female,1,219.65,S,0,Adult,High,Not Survived
+522,Emma Taylor,63,female,1,269.395,S,0,Senior,High,Not Survived
+523,Sophia Smith,24,male,1,269.395,S,1,Adult,High,Survived
+524,John Smith,3,female,1,269.395,S,1,Child,High,Survived
+525,Mary Smith,42,male,1,269.395,C,1,Adult,High,Survived
+526,Sophia Taylor,31,female,1,59.23,C,1,Adult,Medium,Survived
+527,Sara Brown,10,male,1,269.395,C,1,Child,High,Survived
+528,John Smith,40,male,3,269.395,C,1,Adult,High,Survived
+529,John Taylor,58,male,1,465.22,S,1,Adult,Very High,Survived
+530,Sophia Taylor,40,female,2,451.82,S,1,Adult,Very High,Survived
+531,Sara Taylor,40,female,2,27.18,Q,0,Adult,Low,Not Survived
+532,David Taylor,40,male,2,269.395,S,0,Adult,High,Not Survived
+533,Chris Smith,76,female,1,65.04,Q,1,Senior,Medium,Survived
+534,Sara Brown,29,female,1,269.395,Q,1,Adult,High,Survived
+535,Chris Brown,55,male,3,38.65,S,1,Adult,Low,Survived
+536,John Taylor,18,male,3,269.395,S,0,Teen,High,Not Survived
+537,David Taylor,40,female,1,53.92,Q,0,Adult,Medium,Not Survived
+538,Sara Brown,52,male,1,269.395,S,1,Adult,High,Survived
+539,Sophia Taylor,40,male,1,320.09,Q,0,Adult,Very High,Not Survived
+540,Sara Brown,40,male,1,269.395,S,1,Adult,High,Survived
+541,John Taylor,20,female,1,269.395,Q,0,Adult,High,Not Survived
+542,Mary Taylor,45,male,2,451.57,S,0,Adult,Very High,Not Survived
+543,David Smith,56,male,2,446.84,S,1,Adult,Very High,Survived
+544,Emma Brown,40,female,3,356.93,S,1,Adult,Very High,Survived
+545,John Brown,72,female,1,269.395,S,0,Senior,High,Not Survived
+546,Mary Brown,40,female,2,210.63,Q,1,Adult,High,Survived
+547,John Smith,40,female,1,269.395,S,0,Adult,High,Not Survived
+548,Mary Taylor,65,female,1,418.74,S,1,Senior,Very High,Survived
+549,Emma Brown,40,male,3,194.2,S,0,Adult,High,Not Survived
+550,Mary Taylor,70,male,1,269.395,S,1,Senior,High,Survived
+551,Alex Smith,40,male,3,269.395,S,1,Adult,High,Survived
+552,John Brown,40,female,2,61.57,S,1,Adult,Medium,Survived
+553,Sara Smith,38,male,1,429.73,Q,0,Adult,Very High,Not Survived
+554,Alex Taylor,71,female,3,269.395,Q,1,Senior,High,Survived
+555,David Taylor,51,male,3,161.95,S,1,Adult,High,Survived
+556,John Brown,6,female,1,269.395,C,0,Child,High,Not Survived
+557,Sophia Smith,40,male,2,269.395,Q,0,Adult,High,Not Survived
+558,David Taylor,44,female,2,269.395,C,1,Adult,High,Survived
+559,Emma Smith,56,female,2,269.395,S,0,Adult,High,Not Survived
+560,John Taylor,45,female,2,269.395,Q,1,Adult,High,Survived
+561,Chris Smith,40,female,1,269.395,S,1,Adult,High,Survived
+562,John Taylor,48,female,3,469.92,Q,0,Adult,Very High,Not Survived
+563,Mary Brown,4,female,3,189.59,S,1,Child,High,Survived
+564,Emma Taylor,45,male,1,148.85,C,0,Adult,Medium,Not Survived
+565,Sophia Taylor,39,female,3,269.395,C,1,Adult,High,Survived
+566,Alex Taylor,40,female,3,414.77,C,1,Adult,Very High,Survived
+567,Emma Brown,40,male,2,269.395,S,1,Adult,High,Survived
+568,Chris Smith,40,female,2,105.97,Q,0,Adult,Medium,Not Survived
+569,David Taylor,79,male,3,269.395,S,1,Senior,High,Survived
+570,Sara Brown,33,male,2,269.395,S,1,Adult,High,Survived
+571,David Taylor,5,male,1,495.56,S,0,Child,Very High,Not Survived
+572,David Taylor,30,female,1,287.67,C,1,Adult,High,Survived
+573,John Brown,40,female,2,269.395,C,1,Adult,High,Survived
+574,Sophia Smith,71,female,2,269.395,Q,0,Senior,High,Not Survived
+575,Chris Taylor,33,male,3,41.43,S,0,Adult,Low,Not Survived
+576,Mary Brown,40,female,1,269.395,S,0,Adult,High,Not Survived
+577,Sara Brown,40,female,1,371.32,S,1,Adult,Very High,Survived
+578,Emma Taylor,65,female,3,269.395,C,0,Senior,High,Not Survived
+579,Emma Brown,40,female,2,487.43,S,0,Adult,Very High,Not Survived
+580,Chris Brown,40,female,1,389.28,Q,1,Adult,Very High,Survived
+581,Mary Brown,40,female,2,269.395,C,1,Adult,High,Survived
+582,Sophia Taylor,40,female,3,290.84,S,1,Adult,High,Survived
+583,Chris Brown,40,male,1,269.395,Q,0,Adult,High,Not Survived
+584,Mary Smith,43,female,2,13.64,C,0,Adult,Low,Not Survived
+585,Sophia Taylor,44,male,3,342.91,Q,1,Adult,Very High,Survived
+586,Emma Taylor,67,male,3,269.395,Q,1,Senior,High,Survived
+587,Sara Taylor,58,male,3,23.88,S,0,Adult,Low,Not Survived
+588,Sophia Smith,53,female,3,306.75,S,1,Adult,Very High,Survived
+589,Sara Brown,25,female,3,269.395,Q,0,Adult,High,Not Survived
+590,David Smith,40,female,3,269.395,S,1,Adult,High,Survived
+591,Alex Taylor,9,female,1,269.395,S,1,Child,High,Survived
+592,David Brown,40,male,3,179.39,S,1,Adult,High,Survived
+593,Emma Smith,67,female,1,372.92,C,1,Senior,Very High,Survived
+594,Mary Taylor,40,female,1,83.11,S,0,Adult,Medium,Not Survived
+595,Sara Taylor,59,female,2,164.44,Q,0,Adult,High,Not Survived
+596,Alex Smith,52,female,2,269.395,C,1,Adult,High,Survived
+597,Alex Brown,20,female,2,422.37,S,0,Adult,Very High,Not Survived
+598,Mary Smith,11,male,2,269.395,Q,1,Child,High,Survived
+599,Alex Smith,40,female,1,269.395,S,0,Adult,High,Not Survived
+600,John Brown,45,female,1,269.395,S,0,Adult,High,Not Survived
+601,Emma Taylor,40,female,3,269.395,C,0,Adult,High,Not Survived
+602,Chris Smith,2,female,3,269.395,S,1,Child,High,Survived
+603,John Brown,80,female,2,339.8,S,0,Senior,Very High,Not Survived
+604,Sophia Brown,40,female,2,343.95,C,1,Adult,Very High,Survived
+605,Sophia Smith,8,female,2,269.395,S,1,Child,High,Survived
+606,John Smith,40,male,2,443.14,S,0,Adult,Very High,Not Survived
+607,David Smith,40,female,2,249.12,Q,0,Adult,High,Not Survived
+608,David Taylor,40,female,2,269.395,C,1,Adult,High,Survived
+609,Emma Brown,40,female,3,269.395,Q,0,Adult,High,Not Survived
+610,Mary Smith,40,female,1,269.395,C,0,Adult,High,Not Survived
+611,Chris Smith,7,female,1,131.66,C,1,Child,Medium,Survived
+612,Emma Smith,40,female,1,104.9,S,1,Adult,Medium,Survived
+613,Sara Brown,11,male,3,269.395,S,0,Child,High,Not Survived
+614,David Smith,40,female,1,201.54,S,1,Adult,High,Survived
+615,David Brown,40,female,3,126.04,S,1,Adult,Medium,Survived
+616,John Brown,20,female,1,242.8,C,1,Adult,High,Survived
+617,Sara Smith,5,female,3,269.395,Q,1,Child,High,Survived
+618,Mary Smith,40,male,3,269.395,C,0,Adult,High,Not Survived
+619,Emma Taylor,40,female,1,57.38,S,1,Adult,Medium,Survived
+620,David Taylor,40,female,3,22.71,Q,0,Adult,Low,Not Survived
+621,Alex Smith,70,female,2,269.395,S,0,Senior,High,Not Survived
+622,Alex Taylor,71,female,2,38.8,S,0,Senior,Low,Not Survived
+623,Mary Smith,40,female,1,269.395,S,0,Adult,High,Not Survived
+624,Chris Brown,66,female,3,60.81,Q,0,Senior,Medium,Not Survived
+625,Sophia Smith,16,female,1,269.395,C,1,Teen,High,Survived
+626,Sophia Brown,76,male,3,269.395,S,0,Senior,High,Not Survived
+627,John Brown,66,male,3,298.68,C,1,Senior,High,Survived
+628,Alex Taylor,40,female,2,269.395,S,1,Adult,High,Survived
+629,Alex Taylor,40,female,1,269.395,C,1,Adult,High,Survived
+630,Alex Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+631,Sara Brown,40,male,2,269.395,S,1,Adult,High,Survived
+632,Chris Smith,40,female,3,269.395,Q,0,Adult,High,Not Survived
+633,David Taylor,40,female,3,295.4,C,1,Adult,High,Survived
+634,Sara Smith,16,male,3,303.88,S,0,Teen,Very High,Not Survived
+635,John Taylor,26,female,1,269.395,S,1,Adult,High,Survived
+636,Sophia Smith,50,male,1,269.395,S,1,Adult,High,Survived
+637,Sophia Smith,76,male,2,269.395,S,1,Senior,High,Survived
+638,David Brown,40,male,3,345.27,C,0,Adult,Very High,Not Survived
+639,Sara Smith,40,female,2,366.96,Q,0,Adult,Very High,Not Survived
+640,Sophia Taylor,40,female,1,269.395,S,0,Adult,High,Not Survived
+641,Emma Smith,39,male,3,269.395,S,0,Adult,High,Not Survived
+642,Sara Taylor,60,male,1,269.395,S,0,Adult,High,Not Survived
+643,Sophia Smith,40,male,2,100.82,S,1,Adult,Medium,Survived
+644,David Taylor,8,female,3,220.31,Q,1,Child,High,Survived
+645,John Taylor,49,female,3,269.395,C,1,Adult,High,Survived
+646,Mary Taylor,64,male,3,173.29,C,0,Senior,High,Not Survived
+647,David Smith,40,male,2,72.06,Q,0,Adult,Medium,Not Survived
+648,Emma Smith,40,male,2,269.395,Q,0,Adult,High,Not Survived
+649,Mary Brown,40,female,3,456.6,S,1,Adult,Very High,Survived
+650,Alex Taylor,40,female,2,269.395,S,0,Adult,High,Not Survived
+651,Alex Smith,45,female,3,269.395,S,0,Adult,High,Not Survived
+652,Emma Taylor,40,female,1,269.395,S,0,Adult,High,Not Survived
+653,John Taylor,32,male,3,425.56,Q,1,Adult,Very High,Survived
+654,Chris Smith,65,female,1,175.48,S,0,Senior,High,Not Survived
+655,Emma Taylor,40,female,2,269.395,S,0,Adult,High,Not Survived
+656,Sara Brown,40,female,2,315.23,Q,0,Adult,Very High,Not Survived
+657,David Taylor,40,male,2,108.03,C,1,Adult,Medium,Survived
+658,John Brown,36,female,3,269.395,Q,0,Adult,High,Not Survived
+659,Sophia Smith,40,female,2,269.395,Q,0,Adult,High,Not Survived
+660,Sophia Smith,37,male,1,161.84,C,0,Adult,High,Not Survived
+661,Sophia Taylor,29,male,1,118.32,C,1,Adult,Medium,Survived
+662,Sophia Smith,40,female,1,269.395,Q,1,Adult,High,Survived
+663,Sophia Smith,40,female,2,269.395,S,0,Adult,High,Not Survived
+664,Mary Smith,40,female,3,269.395,S,1,Adult,High,Survived
+665,Mary Smith,40,female,3,193.23,S,0,Adult,High,Not Survived
+666,Mary Brown,40,female,3,269.395,C,0,Adult,High,Not Survived
+667,Chris Brown,40,female,3,309.72,C,0,Adult,Very High,Not Survived
+668,David Brown,40,female,1,269.395,S,1,Adult,High,Survived
+669,Alex Smith,40,male,3,157.12,Q,0,Adult,High,Not Survived
+670,Sara Smith,3,male,1,269.395,S,0,Child,High,Not Survived
+671,Sophia Taylor,40,female,1,441.73,Q,1,Adult,Very High,Survived
+672,Alex Smith,78,male,1,48.97,S,1,Senior,Low,Survived
+673,Emma Brown,23,male,2,269.395,S,1,Adult,High,Survived
+674,John Taylor,9,male,3,269.395,S,0,Child,High,Not Survived
+675,David Brown,40,female,2,269.395,S,0,Adult,High,Not Survived
+676,John Taylor,40,male,2,93.92,C,0,Adult,Medium,Not Survived
+677,David Brown,40,female,3,269.395,C,0,Adult,High,Not Survived
+678,Sophia Taylor,40,male,3,466.81,Q,1,Adult,Very High,Survived
+679,Emma Taylor,51,male,3,311.62,S,1,Adult,Very High,Survived
+680,Chris Smith,4,male,1,302.23,S,0,Child,Very High,Not Survived
+681,Chris Smith,40,female,1,272.0,S,1,Adult,High,Survived
+682,Mary Smith,40,male,2,123.46,S,1,Adult,Medium,Survived
+683,Emma Taylor,36,male,1,269.395,S,1,Adult,High,Survived
+684,Mary Brown,54,female,1,158.54,Q,1,Adult,High,Survived
+685,Mary Smith,32,female,2,418.39,S,1,Adult,Very High,Survived
+686,Emma Smith,40,female,3,274.12,S,1,Adult,High,Survived
+687,Sophia Taylor,40,male,2,269.395,C,1,Adult,High,Survived
+688,Emma Brown,40,male,3,269.395,S,1,Adult,High,Survived
+689,Mary Smith,40,female,1,269.395,S,0,Adult,High,Not Survived
+690,David Smith,40,female,2,417.05,S,1,Adult,Very High,Survived
+691,Sophia Smith,11,male,1,269.395,S,0,Child,High,Not Survived
+692,David Smith,58,female,2,107.14,C,0,Adult,Medium,Not Survived
+693,Sara Taylor,40,female,3,311.95,S,0,Adult,Very High,Not Survived
+694,Emma Smith,40,male,3,38.87,S,1,Adult,Low,Survived
+695,Chris Smith,40,male,1,128.42,S,0,Adult,Medium,Not Survived
+696,David Taylor,40,female,1,269.395,Q,0,Adult,High,Not Survived
+697,Emma Smith,40,female,2,259.62,S,0,Adult,High,Not Survived
+698,Sara Brown,40,female,2,269.395,S,0,Adult,High,Not Survived
+699,Sara Taylor,50,female,2,271.15,C,0,Adult,High,Not Survived
+700,Mary Brown,40,female,3,114.62,C,0,Adult,Medium,Not Survived
+701,Sophia Brown,51,female,3,95.03,S,1,Adult,Medium,Survived
+702,Sophia Taylor,40,female,1,168.81,S,0,Adult,High,Not Survived
+703,Mary Brown,9,female,3,269.395,C,0,Child,High,Not Survived
+704,Mary Smith,40,female,3,491.86,C,1,Adult,Very High,Survived
+705,Mary Brown,40,female,3,269.395,Q,1,Adult,High,Survived
+706,David Taylor,15,female,1,221.77,S,0,Teen,High,Not Survived
+707,Alex Smith,59,female,2,269.395,C,1,Adult,High,Survived
+708,Chris Brown,22,female,1,469.88,Q,0,Adult,Very High,Not Survived
+709,Sophia Taylor,40,female,3,235.81,S,1,Adult,High,Survived
+710,John Taylor,40,female,2,323.48,Q,1,Adult,Very High,Survived
+711,Sophia Taylor,40,female,3,269.395,S,0,Adult,High,Not Survived
+712,Sophia Taylor,37,female,1,269.395,Q,1,Adult,High,Survived
+713,Alex Brown,40,female,3,337.62,S,1,Adult,Very High,Survived
+714,David Taylor,40,female,2,269.395,Q,1,Adult,High,Survived
+715,David Smith,11,male,2,269.395,C,0,Child,High,Not Survived
+716,Sara Taylor,78,male,2,442.14,C,1,Senior,Very High,Survived
+717,Emma Brown,40,female,2,269.395,C,1,Adult,High,Survived
+718,Alex Smith,44,female,3,10.42,Q,1,Adult,Low,Survived
+719,Emma Brown,40,male,2,236.24,Q,1,Adult,High,Survived
+720,Mary Taylor,52,female,2,411.89,C,1,Adult,Very High,Survived
+721,Sophia Taylor,40,female,2,128.58,Q,1,Adult,Medium,Survived
+722,John Taylor,7,female,2,320.02,S,0,Child,Very High,Not Survived
+723,Mary Taylor,65,female,2,407.58,S,1,Senior,Very High,Survived
+724,John Brown,63,female,3,109.58,C,0,Senior,Medium,Not Survived
+725,Sara Taylor,40,female,3,384.82,S,0,Adult,Very High,Not Survived
+726,Sophia Brown,40,female,1,277.99,S,1,Adult,High,Survived
+727,Sara Smith,42,female,1,269.395,S,0,Adult,High,Not Survived
+728,John Smith,40,male,1,269.395,S,0,Adult,High,Not Survived
+729,Emma Smith,45,female,3,20.2,Q,0,Adult,Low,Not Survived
+730,David Smith,41,male,1,269.395,S,0,Adult,High,Not Survived
+731,Chris Brown,40,female,3,167.15,C,0,Adult,High,Not Survived
+732,Emma Brown,75,female,2,269.395,S,1,Senior,High,Survived
+733,Chris Brown,40,female,3,392.0,C,1,Adult,Very High,Survived
+734,Alex Smith,40,female,3,96.93,S,0,Adult,Medium,Not Survived
+735,Mary Taylor,3,male,2,269.395,S,1,Child,High,Survived
+736,Mary Smith,5,female,1,354.3,S,0,Child,Very High,Not Survived
+737,Sara Taylor,48,male,1,232.65,S,0,Adult,High,Not Survived
+738,Sophia Smith,41,female,1,216.25,S,1,Adult,High,Survived
+739,Sara Taylor,24,female,2,269.395,C,1,Adult,High,Survived
+740,Alex Smith,57,male,2,269.395,C,1,Adult,High,Survived
+741,Sara Taylor,56,male,1,269.395,S,0,Adult,High,Not Survived
+742,Chris Smith,78,male,2,269.395,S,0,Senior,High,Not Survived
+743,John Smith,40,female,3,493.4,S,0,Adult,Very High,Not Survived
+744,Sara Brown,40,female,2,468.94,C,0,Adult,Very High,Not Survived
+745,Alex Brown,40,female,2,156.66,Q,1,Adult,High,Survived
+746,Mary Smith,40,male,3,269.395,S,1,Adult,High,Survived
+747,Chris Smith,40,female,2,60.13,S,1,Adult,Medium,Survived
+748,Alex Taylor,10,female,2,269.395,S,1,Child,High,Survived
+749,Chris Taylor,66,female,1,205.35,S,1,Senior,High,Survived
+750,Emma Brown,40,female,1,333.27,S,1,Adult,Very High,Survived
+751,David Brown,40,female,2,269.395,S,1,Adult,High,Survived
+752,Emma Smith,40,male,1,269.395,S,0,Adult,High,Not Survived
+753,Alex Smith,51,female,3,269.395,S,1,Adult,High,Survived
+754,Sophia Brown,40,male,1,269.395,Q,0,Adult,High,Not Survived
+755,Mary Taylor,36,female,1,474.94,S,1,Adult,Very High,Survived
+756,David Smith,40,female,1,269.395,C,0,Adult,High,Not Survived
+757,Chris Brown,40,female,3,389.73,S,1,Adult,Very High,Survived
+758,Alex Brown,40,female,1,269.395,C,1,Adult,High,Survived
+759,John Taylor,45,female,3,269.395,C,1,Adult,High,Survived
+760,David Smith,40,female,2,269.395,C,1,Adult,High,Survived
+761,David Smith,40,female,2,269.395,Q,0,Adult,High,Not Survived
+762,Mary Smith,40,male,1,269.395,S,1,Adult,High,Survived
+763,Sophia Smith,16,female,1,356.02,Q,0,Teen,Very High,Not Survived
+764,David Smith,40,male,2,66.76,Q,1,Adult,Medium,Survived
+765,Sara Brown,53,female,2,498.17,Q,1,Adult,Very High,Survived
+766,Mary Taylor,40,female,1,197.34,C,1,Adult,High,Survived
+767,Chris Taylor,40,male,2,269.395,Q,1,Adult,High,Survived
+768,Mary Smith,16,female,3,406.9,S,1,Teen,Very High,Survived
+769,John Brown,64,female,2,273.85,S,0,Senior,High,Not Survived
+770,Mary Brown,40,female,3,269.395,Q,0,Adult,High,Not Survived
+771,Sophia Brown,40,male,3,269.395,Q,1,Adult,High,Survived
+772,Sophia Taylor,5,male,3,269.395,S,0,Child,High,Not Survived
+773,John Smith,40,male,1,269.395,S,1,Adult,High,Survived
+774,Mary Brown,45,female,1,269.395,Q,1,Adult,High,Survived
+775,Chris Brown,53,male,1,269.395,S,0,Adult,High,Not Survived
+776,Sara Brown,40,female,3,24.29,S,1,Adult,Low,Survived
+777,Mary Brown,14,male,2,40.97,Q,0,Teen,Low,Not Survived
+778,Emma Taylor,40,female,3,368.59,S,0,Adult,Very High,Not Survived
+779,Emma Brown,40,female,3,258.18,C,1,Adult,High,Survived
+780,Alex Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+781,Sophia Taylor,40,female,1,179.1,S,0,Adult,High,Not Survived
+782,Mary Taylor,77,female,1,482.33,S,0,Senior,Very High,Not Survived
+783,Alex Taylor,40,female,2,269.395,Q,0,Adult,High,Not Survived
+784,Sophia Brown,60,male,2,269.395,S,1,Adult,High,Survived
+785,Mary Smith,2,female,3,269.395,S,0,Child,High,Not Survived
+786,David Brown,40,male,1,269.395,S,0,Adult,High,Not Survived
+787,Sophia Smith,39,female,2,269.395,S,0,Adult,High,Not Survived
+788,Emma Brown,40,female,2,269.395,C,1,Adult,High,Survived
+789,Sophia Taylor,40,male,1,269.395,S,1,Adult,High,Survived
+790,Alex Smith,40,male,2,157.17,S,0,Adult,High,Not Survived
+791,Alex Smith,40,female,1,315.82,S,0,Adult,Very High,Not Survived
+792,Chris Smith,56,male,3,269.395,C,1,Adult,High,Survived
+793,Alex Smith,40,female,2,161.14,C,1,Adult,High,Survived
+794,Sophia Smith,64,male,2,353.74,S,0,Senior,Very High,Not Survived
+795,Sara Brown,40,female,3,269.395,S,0,Adult,High,Not Survived
+796,David Brown,59,female,2,269.395,Q,0,Adult,High,Not Survived
+797,Sophia Taylor,40,male,1,269.395,C,0,Adult,High,Not Survived
+798,David Taylor,40,female,2,269.395,Q,0,Adult,High,Not Survived
+799,John Taylor,58,male,1,494.6,S,0,Adult,Very High,Not Survived
+800,Sophia Brown,28,male,1,269.395,S,1,Adult,High,Survived
+801,John Brown,40,female,3,169.05,S,1,Adult,High,Survived
+802,Sophia Smith,72,female,1,265.99,S,1,Senior,High,Survived
+803,Mary Taylor,40,female,2,269.395,Q,0,Adult,High,Not Survived
+804,John Brown,40,female,2,485.02,S,1,Adult,Very High,Survived
+805,Sophia Brown,64,female,1,269.395,C,0,Senior,High,Not Survived
+806,David Brown,51,female,1,269.395,S,1,Adult,High,Survived
+807,Chris Brown,40,male,2,269.395,Q,1,Adult,High,Survived
+808,John Smith,22,male,1,73.31,S,1,Adult,Medium,Survived
+809,Chris Brown,40,male,3,269.395,Q,0,Adult,High,Not Survived
+810,Alex Smith,40,male,2,203.34,S,0,Adult,High,Not Survived
+811,Sara Smith,40,female,1,259.67,S,1,Adult,High,Survived
+812,Sophia Smith,40,female,2,269.395,S,0,Adult,High,Not Survived
+813,Sara Brown,27,female,3,410.64,S,1,Adult,Very High,Survived
+814,Chris Brown,40,female,1,365.06,S,1,Adult,Very High,Survived
+815,Sara Brown,72,female,1,306.77,C,1,Senior,Very High,Survived
+816,John Taylor,40,female,3,225.6,Q,0,Adult,High,Not Survived
+817,John Smith,40,female,1,482.86,C,0,Adult,Very High,Not Survived
+818,Chris Smith,24,female,3,269.395,C,0,Adult,High,Not Survived
+819,Sophia Brown,25,male,2,269.395,S,0,Adult,High,Not Survived
+820,Alex Brown,40,female,2,269.395,S,0,Adult,High,Not Survived
+821,David Brown,30,female,2,269.395,S,1,Adult,High,Survived
+822,Sophia Brown,16,male,2,487.11,Q,0,Teen,Very High,Not Survived
+823,David Taylor,40,female,2,399.26,S,1,Adult,Very High,Survived
+824,Mary Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+825,Sara Taylor,10,female,1,332.98,C,1,Child,Very High,Survived
+826,Sophia Smith,53,male,2,269.395,S,1,Adult,High,Survived
+827,Mary Brown,40,male,3,444.53,S,1,Adult,Very High,Survived
+828,John Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+829,Mary Taylor,40,female,2,427.12,C,1,Adult,Very High,Survived
+830,Mary Smith,40,male,2,269.395,C,0,Adult,High,Not Survived
+831,Chris Smith,61,female,1,269.395,S,1,Senior,High,Survived
+832,Mary Taylor,12,male,2,269.395,Q,0,Child,High,Not Survived
+833,Chris Taylor,40,male,1,417.15,S,1,Adult,Very High,Survived
+834,John Brown,40,male,2,52.56,C,1,Adult,Medium,Survived
+835,David Taylor,40,male,3,269.395,Q,1,Adult,High,Survived
+836,Emma Smith,40,female,3,405.19,S,1,Adult,Very High,Survived
+837,Sara Brown,23,female,1,269.395,S,0,Adult,High,Not Survived
+838,Alex Smith,59,female,1,269.395,S,0,Adult,High,Not Survived
+839,Mary Brown,40,female,3,272.55,S,0,Adult,High,Not Survived
+840,Chris Brown,67,female,1,269.395,S,0,Senior,High,Not Survived
+841,Sophia Smith,40,female,1,269.395,Q,1,Adult,High,Survived
+842,John Smith,40,female,1,269.395,C,0,Adult,High,Not Survived
+843,John Taylor,41,female,3,295.02,S,1,Adult,High,Survived
+844,Mary Smith,40,male,3,28.8,S,1,Adult,Low,Survived
+845,Sara Smith,22,female,2,280.42,Q,0,Adult,High,Not Survived
+846,Sophia Brown,40,male,3,269.395,S,1,Adult,High,Survived
+847,John Smith,40,female,1,269.395,C,0,Adult,High,Not Survived
+848,Sophia Taylor,29,female,2,304.32,S,1,Adult,Very High,Survived
+849,Emma Brown,71,male,1,269.395,S,1,Senior,High,Survived
+850,Chris Taylor,40,female,2,269.395,Q,1,Adult,High,Survived
+851,Sara Smith,40,female,2,21.42,Q,0,Adult,Low,Not Survived
+852,Sophia Brown,40,female,1,425.29,S,1,Adult,Very High,Survived
+853,John Smith,51,female,2,474.57,C,0,Adult,Very High,Not Survived
+854,David Taylor,38,female,1,337.98,S,1,Adult,Very High,Survived
+855,Mary Smith,70,female,3,269.395,S,0,Senior,High,Not Survived
+856,Sophia Smith,40,female,1,269.395,C,1,Adult,High,Survived
+857,Sophia Smith,40,female,3,269.395,C,1,Adult,High,Survived
+858,Sophia Smith,40,female,3,407.08,C,1,Adult,Very High,Survived
+859,Mary Smith,33,male,2,269.395,C,1,Adult,High,Survived
+860,David Taylor,33,male,2,269.395,S,1,Adult,High,Survived
+861,Mary Brown,40,female,3,269.395,S,1,Adult,High,Survived
+862,Emma Smith,33,male,1,6.73,Q,1,Adult,Low,Survived
+863,Sara Smith,21,male,1,269.395,S,1,Adult,High,Survived
+864,John Taylor,35,female,3,269.395,Q,0,Adult,High,Not Survived
+865,Mary Brown,40,female,3,464.42,S,1,Adult,Very High,Survived
+866,John Brown,37,female,1,269.395,Q,0,Adult,High,Not Survived
+867,Sophia Smith,40,male,3,269.395,S,0,Adult,High,Not Survived
+868,Emma Brown,40,female,1,269.395,Q,0,Adult,High,Not Survived
+869,Alex Smith,17,male,3,269.395,Q,1,Teen,High,Survived
+870,Sara Taylor,40,female,3,103.29,S,1,Adult,Medium,Survived
+871,David Brown,3,female,3,129.27,C,0,Child,Medium,Not Survived
+872,Chris Brown,40,female,2,488.29,C,1,Adult,Very High,Survived
+873,John Brown,40,male,3,272.64,S,0,Adult,High,Not Survived
+874,Mary Taylor,40,female,2,269.395,Q,0,Adult,High,Not Survived
+875,Sophia Taylor,40,female,2,471.27,C,1,Adult,Very High,Survived
+876,Mary Brown,40,female,1,370.63,S,0,Adult,Very High,Not Survived
+877,Sophia Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+878,Sara Brown,80,female,2,269.395,Q,1,Senior,High,Survived
+879,Mary Smith,40,female,1,269.395,S,0,Adult,High,Not Survived
+880,Alex Brown,36,female,3,476.28,Q,1,Adult,Very High,Survived
+881,John Taylor,72,male,2,493.6,S,0,Senior,Very High,Not Survived
+882,Sara Smith,40,female,2,269.395,S,1,Adult,High,Survived
+883,Emma Taylor,25,female,1,298.84,S,1,Adult,High,Survived
+884,Alex Smith,40,male,1,268.64,Q,0,Adult,High,Not Survived
+885,David Smith,7,female,3,269.395,C,0,Child,High,Not Survived
+886,Emma Brown,10,female,3,269.395,C,0,Child,High,Not Survived
+887,Sophia Taylor,65,female,3,322.51,C,0,Senior,Very High,Not Survived
+888,Sara Taylor,40,female,2,25.54,S,0,Adult,Low,Not Survived
+889,David Brown,63,female,3,422.93,Q,0,Senior,Very High,Not Survived
+890,Emma Brown,59,female,3,372.19,S,0,Adult,Very High,Not Survived
+891,Emma Taylor,40,male,1,269.395,S,0,Adult,High,Not Survived
+892,Emma Smith,16,female,3,371.4,S,0,Teen,Very High,Not Survived
+893,Chris Taylor,40,male,2,269.395,Q,0,Adult,High,Not Survived
+894,Mary Brown,40,male,2,375.73,C,1,Adult,Very High,Survived
+895,Alex Taylor,40,female,2,269.395,S,0,Adult,High,Not Survived
+896,David Brown,40,female,3,269.395,S,0,Adult,High,Not Survived
+897,Alex Brown,40,female,1,269.395,S,0,Adult,High,Not Survived
+898,John Brown,18,female,3,208.93,S,1,Teen,High,Survived
+899,Sara Taylor,26,female,1,435.53,C,1,Adult,Very High,Survived
+900,David Brown,29,female,1,269.395,S,1,Adult,High,Survived
+901,John Brown,59,female,2,269.395,S,0,Adult,High,Not Survived
+902,Sophia Smith,15,female,1,269.395,S,0,Teen,High,Not Survived
+903,Emma Taylor,40,female,1,470.64,S,0,Adult,Very High,Not Survived
+904,Sara Brown,40,male,3,274.62,C,1,Adult,High,Survived
+905,Sara Smith,40,female,3,156.32,S,0,Adult,High,Not Survived
+906,Mary Brown,69,female,1,8.46,C,1,Senior,Low,Survived
+907,Alex Smith,40,female,3,269.395,S,0,Adult,High,Not Survived
+908,Sara Brown,40,female,1,269.395,S,0,Adult,High,Not Survived
+909,Alex Smith,40,female,2,210.89,S,0,Adult,High,Not Survived
+910,Emma Taylor,40,male,1,269.395,Q,1,Adult,High,Survived
+911,Chris Smith,40,male,2,101.56,C,1,Adult,Medium,Survived
+912,Mary Smith,49,female,1,123.28,Q,1,Adult,Medium,Survived
+913,Emma Brown,8,female,1,377.69,C,0,Child,Very High,Not Survived
+914,John Taylor,40,female,3,380.8,Q,1,Adult,Very High,Survived
+915,Sophia Smith,38,female,2,412.28,S,0,Adult,Very High,Not Survived
+916,Alex Brown,21,female,1,269.395,S,1,Adult,High,Survived
+917,Chris Smith,40,female,3,269.395,S,0,Adult,High,Not Survived
+918,Emma Brown,40,male,3,58.87,Q,1,Adult,Medium,Survived
+919,Emma Taylor,40,female,3,329.97,S,0,Adult,Very High,Not Survived
+920,John Brown,40,female,2,410.97,S,1,Adult,Very High,Survived
+921,Sophia Smith,40,female,2,269.395,C,1,Adult,High,Survived
+922,Sara Taylor,40,female,2,177.73,Q,1,Adult,High,Survived
+923,David Smith,26,female,2,74.51,S,0,Adult,Medium,Not Survived
+924,Mary Smith,51,male,2,454.93,Q,0,Adult,Very High,Not Survived
+925,Sophia Brown,40,female,3,269.395,S,0,Adult,High,Not Survived
+926,David Brown,40,female,1,269.395,S,0,Adult,High,Not Survived
+927,Sara Taylor,40,male,3,401.77,C,1,Adult,Very High,Survived
+928,Chris Taylor,59,female,3,311.13,S,0,Adult,Very High,Not Survived
+929,John Taylor,40,male,3,290.87,Q,1,Adult,High,Survived
+930,Alex Brown,80,female,3,423.32,S,1,Senior,Very High,Survived
+931,John Brown,40,male,3,269.395,S,0,Adult,High,Not Survived
+932,Sara Smith,40,female,3,269.395,S,1,Adult,High,Survived
+933,John Brown,31,male,2,351.7,S,0,Adult,Very High,Not Survived
+934,John Smith,40,male,1,269.395,S,0,Adult,High,Not Survived
+935,John Smith,38,female,1,269.395,Q,0,Adult,High,Not Survived
+936,John Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+937,Chris Brown,11,female,3,269.395,S,0,Child,High,Not Survived
+938,Mary Taylor,40,female,1,269.395,S,0,Adult,High,Not Survived
+939,Chris Taylor,40,female,1,269.395,C,1,Adult,High,Survived
+940,Chris Smith,40,male,1,454.45,C,0,Adult,Very High,Not Survived
+941,Sara Smith,10,male,1,62.97,Q,1,Child,Medium,Survived
+942,Sophia Smith,40,female,1,269.395,C,0,Adult,High,Not Survived
+943,John Taylor,40,female,3,269.395,C,1,Adult,High,Survived
+944,Chris Smith,40,female,2,71.65,Q,1,Adult,Medium,Survived
+945,John Smith,76,male,3,269.395,C,0,Senior,High,Not Survived
+946,Mary Brown,40,female,3,449.33,Q,1,Adult,Very High,Survived
+947,Alex Smith,40,female,2,240.45,S,0,Adult,High,Not Survived
+948,David Brown,64,female,1,479.1,Q,0,Senior,Very High,Not Survived
+949,Sara Smith,40,male,2,116.93,Q,0,Adult,Medium,Not Survived
+950,Sophia Smith,7,female,1,82.22,C,0,Child,Medium,Not Survived
+951,Alex Taylor,28,female,3,75.94,S,1,Adult,Medium,Survived
+952,David Smith,9,male,1,273.86,C,1,Child,High,Survived
+953,Mary Taylor,40,male,3,269.395,S,1,Adult,High,Survived
+954,Chris Taylor,75,female,3,269.395,S,1,Senior,High,Survived
+955,Alex Taylor,77,female,1,378.21,S,0,Senior,Very High,Not Survived
+956,Sophia Brown,40,female,2,269.395,C,1,Adult,High,Survived
+957,Sophia Smith,43,female,1,339.34,S,0,Adult,Very High,Not Survived
+958,Sophia Smith,41,female,3,226.24,Q,0,Adult,High,Not Survived
+959,Chris Brown,40,female,3,145.03,Q,1,Adult,Medium,Survived
+960,John Smith,40,female,1,269.395,C,0,Adult,High,Not Survived
+961,Sophia Taylor,47,male,1,269.395,C,1,Adult,High,Survived
+962,Sophia Brown,31,male,1,269.395,Q,0,Adult,High,Not Survived
+963,Mary Smith,40,female,2,269.395,Q,0,Adult,High,Not Survived
+964,Alex Smith,40,male,3,269.395,C,1,Adult,High,Survived
+965,Sara Brown,73,female,2,269.395,C,1,Senior,High,Survived
+966,Chris Taylor,40,male,3,269.395,S,1,Adult,High,Survived
+967,Mary Smith,40,female,3,269.395,C,0,Adult,High,Not Survived
+968,John Taylor,40,female,2,21.9,Q,0,Adult,Low,Not Survived
+969,Chris Brown,40,male,2,341.75,S,1,Adult,Very High,Survived
+970,John Smith,41,male,2,269.395,C,1,Adult,High,Survived
+971,Chris Taylor,40,male,1,366.4,S,1,Adult,Very High,Survived
+972,Emma Smith,18,female,2,269.395,C,1,Teen,High,Survived
+973,Chris Brown,40,female,1,175.1,S,1,Adult,High,Survived
+974,Emma Brown,40,female,3,17.72,S,1,Adult,Low,Survived
+975,Sara Smith,40,female,3,119.21,S,0,Adult,Medium,Not Survived
+976,Chris Taylor,41,female,3,269.395,Q,0,Adult,High,Not Survived
+977,David Smith,22,male,3,269.395,S,1,Adult,High,Survived
+978,Chris Brown,40,female,2,26.72,C,1,Adult,Low,Survived
+979,Mary Brown,40,female,1,269.395,Q,0,Adult,High,Not Survived
+980,Mary Brown,38,female,2,269.395,S,1,Adult,High,Survived
+981,Sophia Brown,40,male,1,269.395,Q,1,Adult,High,Survived
+982,Sara Smith,23,female,1,269.395,S,1,Adult,High,Survived
+983,Chris Brown,25,male,1,269.395,Q,1,Adult,High,Survived
+984,Emma Brown,28,male,2,269.395,C,1,Adult,High,Survived
+985,John Smith,40,female,3,338.98,Q,0,Adult,Very High,Not Survived
+986,Emma Brown,40,female,1,269.395,S,1,Adult,High,Survived
+987,Mary Taylor,52,female,3,496.48,Q,1,Adult,Very High,Survived
+988,Sara Taylor,40,male,2,263.26,S,0,Adult,High,Not Survived
+989,John Taylor,40,female,2,363.49,S,1,Adult,Very High,Survived
+990,David Brown,40,male,2,269.395,S,1,Adult,High,Survived
+991,John Smith,36,female,2,269.395,C,0,Adult,High,Not Survived
+992,Mary Brown,67,male,1,247.68,S,1,Senior,High,Survived
+993,Sara Smith,40,male,1,269.395,C,1,Adult,High,Survived
+994,Sara Brown,76,female,2,226.63,C,0,Senior,High,Not Survived
+995,Mary Brown,15,female,2,269.395,S,0,Teen,High,Not Survived
+996,Emma Brown,79,female,2,314.14,S,1,Senior,Very High,Survived
+997,David Brown,72,female,3,269.395,S,1,Senior,High,Survived
+998,David Brown,40,female,2,368.67,S,0,Adult,Very High,Not Survived
+999,John Brown,40,female,1,269.395,C,0,Adult,High,Not Survived
+1000,Emma Smith,40,male,1,269.395,S,1,Adult,High,Survived
+1001,John Taylor,40,female,1,269.395,Q,0,Adult,High,Not Survived
+1002,Sara Taylor,11,male,3,148.06,S,0,Child,Medium,Not Survived
+1003,Alex Brown,21,male,1,339.48,C,0,Adult,Very High,Not Survived
+1004,Sophia Taylor,42,female,1,269.395,C,1,Adult,High,Survived
+1005,Alex Taylor,34,female,1,269.395,C,1,Adult,High,Survived
+1006,Emma Brown,40,female,2,269.395,S,0,Adult,High,Not Survived
+1007,Chris Taylor,40,male,2,269.395,Q,0,Adult,High,Not Survived
+1008,Alex Smith,40,male,3,486.9,C,1,Adult,Very High,Survived
+1009,Mary Brown,40,female,2,288.02,S,1,Adult,High,Survived
+1010,Sophia Taylor,8,male,2,269.395,C,1,Child,High,Survived
+1011,Chris Brown,40,female,2,411.73,Q,1,Adult,Very High,Survived
+1012,David Smith,40,female,1,74.42,S,0,Adult,Medium,Not Survived
+1013,David Smith,68,female,1,269.395,S,1,Senior,High,Survived
+1014,Emma Smith,14,male,2,269.395,Q,0,Teen,High,Not Survived
+1015,David Taylor,10,male,2,269.395,C,1,Child,High,Survived
+1016,Sophia Brown,40,male,1,323.07,S,1,Adult,Very High,Survived
+1017,Chris Brown,58,female,1,269.395,S,1,Adult,High,Survived
+1018,David Brown,40,female,1,269.395,C,1,Adult,High,Survived
+1019,Chris Taylor,40,female,3,269.395,S,0,Adult,High,Not Survived
+1020,Chris Brown,40,female,2,207.75,S,0,Adult,High,Not Survived
+1021,Sophia Taylor,40,female,1,264.88,S,1,Adult,High,Survived
+1022,Sophia Brown,39,female,2,269.395,S,0,Adult,High,Not Survived
+1023,David Smith,45,male,3,269.395,C,1,Adult,High,Survived
+1024,Emma Smith,40,male,3,285.54,S,0,Adult,High,Not Survived
+1025,Chris Taylor,40,male,1,269.395,S,1,Adult,High,Survived
+1026,John Brown,40,female,3,304.65,S,0,Adult,Very High,Not Survived
+1027,Mary Smith,40,male,3,269.395,S,1,Adult,High,Survived
+1028,David Taylor,12,female,2,213.74,Q,0,Child,High,Not Survived
+1029,Sara Taylor,66,female,1,417.7,S,1,Senior,Very High,Survived
+1030,John Taylor,40,female,1,75.71,Q,0,Adult,Medium,Not Survived
+1031,Chris Taylor,40,female,3,124.82,C,1,Adult,Medium,Survived
+1032,Sara Taylor,47,male,3,269.395,Q,0,Adult,High,Not Survived
+1033,David Taylor,40,female,1,59.62,C,1,Adult,Medium,Survived
+1034,Chris Brown,50,male,2,154.26,Q,1,Adult,High,Survived
+1035,Chris Brown,10,female,1,269.395,Q,1,Child,High,Survived
+1036,Mary Smith,33,male,1,182.7,Q,0,Adult,High,Not Survived
+1037,John Brown,10,female,3,269.395,S,0,Child,High,Not Survived
+1038,Chris Smith,40,female,2,48.16,S,0,Adult,Low,Not Survived
+1039,Sophia Smith,40,female,2,269.395,S,0,Adult,High,Not Survived
+1040,David Taylor,40,male,2,357.16,C,1,Adult,Very High,Survived
+1041,Sara Taylor,38,male,1,269.395,S,1,Adult,High,Survived
+1042,Sara Taylor,22,female,3,269.395,S,0,Adult,High,Not Survived
+1043,David Brown,40,male,2,490.62,S,0,Adult,Very High,Not Survived
+1044,Emma Brown,37,female,1,269.395,C,1,Adult,High,Survived
+1045,Alex Smith,40,male,1,269.395,S,1,Adult,High,Survived
+1046,Chris Smith,60,female,1,175.85,C,0,Adult,High,Not Survived
+1047,John Smith,40,female,1,269.395,C,1,Adult,High,Survived
+1048,Sara Brown,40,male,2,231.25,S,1,Adult,High,Survived
+1049,Mary Brown,5,female,3,269.395,Q,1,Child,High,Survived
+1050,Sophia Taylor,60,female,1,431.92,C,1,Adult,Very High,Survived
+1051,Mary Smith,40,female,1,16.87,S,1,Adult,Low,Survived
+1052,Sophia Smith,40,male,3,269.395,C,0,Adult,High,Not Survived
+1053,David Smith,40,female,3,269.395,C,1,Adult,High,Survived
+1054,Mary Taylor,40,female,2,56.53,Q,1,Adult,Medium,Survived
+1055,Sophia Smith,38,female,2,269.395,S,0,Adult,High,Not Survived
+1056,Alex Smith,26,female,1,494.81,S,1,Adult,Very High,Survived
+1057,David Brown,18,female,3,269.395,S,0,Teen,High,Not Survived
+1058,Chris Taylor,40,female,1,258.76,S,1,Adult,High,Survived
+1059,Sophia Smith,62,male,3,167.54,C,1,Senior,High,Survived
+1060,Sara Smith,19,female,2,159.31,C,1,Adult,High,Survived
+1061,Emma Brown,68,female,1,269.395,S,0,Senior,High,Not Survived
+1062,Chris Brown,31,male,1,233.98,S,0,Adult,High,Not Survived
+1063,Alex Brown,55,female,3,387.5,S,0,Adult,Very High,Not Survived
+1064,Chris Taylor,40,female,1,127.01,Q,0,Adult,Medium,Not Survived
+1065,David Taylor,40,female,1,66.95,Q,0,Adult,Medium,Not Survived
+1066,Emma Taylor,12,female,3,180.38,S,1,Child,High,Survived
+1067,David Brown,48,female,2,269.395,S,0,Adult,High,Not Survived
+1068,David Brown,40,female,2,269.395,S,0,Adult,High,Not Survived
+1069,Emma Brown,37,female,3,418.48,S,0,Adult,Very High,Not Survived
+1070,David Brown,40,female,1,302.59,C,0,Adult,Very High,Not Survived
+1071,Sara Taylor,30,female,2,33.74,Q,1,Adult,Low,Survived
+1072,Mary Brown,40,female,3,271.3,Q,0,Adult,High,Not Survived
+1073,Chris Brown,3,female,3,269.395,Q,0,Child,High,Not Survived
+1074,Emma Smith,18,female,1,269.395,S,1,Teen,High,Survived
+1075,Chris Taylor,23,female,3,269.395,S,1,Adult,High,Survived
+1076,Mary Taylor,40,female,1,291.86,S,0,Adult,High,Not Survived
+1077,Mary Smith,53,male,3,269.395,S,1,Adult,High,Survived
+1078,Alex Smith,11,female,1,269.395,Q,0,Child,High,Not Survived
+1079,Chris Taylor,40,male,2,269.395,S,1,Adult,High,Survived
+1080,Mary Brown,45,female,3,269.395,S,0,Adult,High,Not Survived
+1081,David Smith,40,female,2,14.24,C,1,Adult,Low,Survived
+1082,Alex Brown,60,female,1,269.395,Q,0,Adult,High,Not Survived
+1083,Chris Taylor,40,female,1,269.395,S,1,Adult,High,Survived
+1084,Mary Taylor,40,female,1,479.31,S,0,Adult,Very High,Not Survived
+1085,John Taylor,46,female,1,269.395,Q,1,Adult,High,Survived
+1086,Mary Smith,40,female,1,269.395,C,0,Adult,High,Not Survived
+1087,Chris Smith,40,female,2,269.395,S,0,Adult,High,Not Survived
+1088,Sara Taylor,1,male,3,269.395,C,1,Child,High,Survived
+1089,Mary Brown,8,male,3,269.395,C,0,Child,High,Not Survived
+1090,David Taylor,40,male,1,58.83,Q,0,Adult,Medium,Not Survived
+1091,Sara Taylor,40,female,1,453.07,S,1,Adult,Very High,Survived
+1092,Sara Brown,40,female,1,190.9,C,1,Adult,High,Survived
+1093,Alex Smith,67,male,2,269.395,C,1,Senior,High,Survived
+1094,Chris Brown,76,male,2,269.395,S,0,Senior,High,Not Survived
+1095,David Taylor,40,male,2,375.29,S,0,Adult,Very High,Not Survived
+1096,Sara Brown,40,female,1,438.04,Q,1,Adult,Very High,Survived
+1097,John Brown,40,male,2,269.395,Q,1,Adult,High,Survived
+1098,Mary Smith,22,male,3,304.15,Q,1,Adult,Very High,Survived
+1099,Alex Brown,40,female,3,253.79,C,1,Adult,High,Survived
+1100,John Taylor,56,female,2,353.08,C,1,Adult,Very High,Survived
+1101,David Brown,58,female,1,269.395,S,1,Adult,High,Survived
+1102,John Brown,34,female,2,269.395,S,0,Adult,High,Not Survived
+1103,John Taylor,44,female,1,489.63,S,0,Adult,Very High,Not Survived
+1104,Chris Smith,20,female,2,269.395,S,1,Adult,High,Survived
+1105,Alex Smith,14,female,2,117.13,Q,1,Teen,Medium,Survived
+1106,Sophia Taylor,63,female,2,408.53,S,1,Senior,Very High,Survived
+1107,Chris Smith,33,female,3,145.19,S,0,Adult,Medium,Not Survived
+1108,Sara Brown,13,female,2,269.395,S,0,Teen,High,Not Survived
+1109,Sophia Smith,40,male,2,419.29,S,1,Adult,Very High,Survived
+1110,Mary Taylor,40,male,3,269.395,Q,1,Adult,High,Survived
+1111,Alex Brown,40,male,2,101.63,S,1,Adult,Medium,Survived
+1112,David Smith,40,female,3,269.395,Q,1,Adult,High,Survived
+1113,Alex Brown,47,female,3,418.59,S,0,Adult,Very High,Not Survived
+1114,John Brown,60,male,3,126.92,C,0,Adult,Medium,Not Survived
+1115,Chris Brown,12,female,2,19.42,S,1,Child,Low,Survived
+1116,Emma Taylor,73,female,2,269.395,S,1,Senior,High,Survived
+1117,Sophia Brown,40,female,1,115.32,S,0,Adult,Medium,Not Survived
+1118,Alex Taylor,61,female,3,371.55,S,1,Senior,Very High,Survived
+1119,John Smith,40,female,3,269.395,S,0,Adult,High,Not Survived
+1120,Emma Smith,40,male,1,269.395,C,1,Adult,High,Survived
+1121,Sophia Smith,76,female,1,85.77,S,1,Senior,Medium,Survived
+1122,Emma Brown,40,female,3,269.395,C,0,Adult,High,Not Survived
+1123,Chris Smith,40,male,1,269.395,C,0,Adult,High,Not Survived
+1124,David Brown,56,female,2,49.28,S,1,Adult,Low,Survived
+1125,Sara Brown,40,male,3,66.57,S,1,Adult,Medium,Survived
+1126,Emma Taylor,23,female,3,435.42,Q,0,Adult,Very High,Not Survived
+1127,Sophia Smith,40,female,3,269.395,Q,1,Adult,High,Survived
+1128,Chris Smith,40,male,1,122.22,S,1,Adult,Medium,Survived
+1129,Sophia Smith,3,male,2,269.395,C,0,Child,High,Not Survived
+1130,Chris Brown,6,male,1,79.15,S,0,Child,Medium,Not Survived
+1131,Chris Brown,40,female,1,269.395,Q,0,Adult,High,Not Survived
+1132,Alex Taylor,80,female,3,433.32,Q,0,Senior,Very High,Not Survived
+1133,Emma Smith,40,male,1,269.395,S,0,Adult,High,Not Survived
+1134,Sophia Brown,34,female,2,269.395,S,1,Adult,High,Survived
+1135,Alex Brown,40,female,2,347.64,S,1,Adult,Very High,Survived
+1136,Mary Smith,71,female,3,428.49,C,0,Senior,Very High,Not Survived
+1137,Chris Smith,40,female,3,305.83,C,0,Adult,Very High,Not Survived
+1138,Chris Brown,46,male,3,353.05,S,0,Adult,Very High,Not Survived
+1139,Alex Taylor,40,female,3,216.91,S,0,Adult,High,Not Survived
+1140,John Taylor,74,male,2,173.65,Q,0,Senior,High,Not Survived
+1141,Sophia Smith,40,female,2,269.395,S,0,Adult,High,Not Survived
+1142,David Smith,6,male,2,318.44,C,1,Child,Very High,Survived
+1143,Chris Smith,17,male,2,269.395,S,1,Teen,High,Survived
+1144,John Taylor,40,male,2,177.33,Q,0,Adult,High,Not Survived
+1145,Sophia Smith,40,female,3,269.395,Q,1,Adult,High,Survived
+1146,David Smith,40,male,2,301.1,S,0,Adult,Very High,Not Survived
+1147,John Brown,40,female,2,464.75,S,1,Adult,Very High,Survived
+1148,Chris Smith,40,female,3,269.395,S,0,Adult,High,Not Survived
+1149,Sophia Smith,2,female,2,269.395,C,0,Child,High,Not Survived
+1150,Emma Brown,40,male,3,269.395,S,1,Adult,High,Survived
+1151,Sophia Smith,75,female,3,269.395,C,0,Senior,High,Not Survived
+1152,Mary Brown,40,female,3,269.395,S,1,Adult,High,Survived
+1153,John Taylor,40,female,3,90.6,Q,0,Adult,Medium,Not Survived
+1154,Alex Smith,40,male,3,170.96,S,0,Adult,High,Not Survived
+1155,Chris Brown,40,male,1,269.395,S,1,Adult,High,Survived
+1156,Sophia Taylor,40,female,3,269.395,S,0,Adult,High,Not Survived
+1157,Mary Brown,51,female,3,269.395,S,1,Adult,High,Survived
+1158,David Smith,40,female,3,269.395,C,0,Adult,High,Not Survived
+1159,Chris Taylor,49,female,3,269.395,S,1,Adult,High,Survived
+1160,John Taylor,40,female,1,269.395,C,0,Adult,High,Not Survived
+1161,Mary Smith,40,male,2,269.395,S,1,Adult,High,Survived
+1162,Emma Taylor,40,female,2,269.395,S,1,Adult,High,Survived
+1163,Mary Brown,40,female,2,153.94,Q,0,Adult,High,Not Survived
+1164,Chris Taylor,12,female,2,151.5,Q,1,Child,High,Survived
+1165,Sophia Brown,40,female,3,269.395,C,1,Adult,High,Survived
+1166,Chris Smith,40,male,1,467.96,C,1,Adult,Very High,Survived
+1167,Emma Smith,40,male,2,286.18,C,1,Adult,High,Survived
+1168,John Brown,43,male,2,269.395,C,0,Adult,High,Not Survived
+1169,Mary Smith,45,female,1,219.33,S,0,Adult,High,Not Survived
+1170,Sara Brown,12,female,1,423.1,Q,0,Child,Very High,Not Survived
+1171,Chris Smith,40,female,1,269.395,C,1,Adult,High,Survived
+1172,David Smith,31,female,3,179.65,C,1,Adult,High,Survived
+1173,Sophia Brown,36,male,3,269.395,Q,1,Adult,High,Survived
+1174,Sara Smith,40,female,3,269.395,S,1,Adult,High,Survived
+1175,John Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+1176,John Smith,26,female,1,161.23,S,0,Adult,High,Not Survived
+1177,John Brown,30,female,3,227.75,S,1,Adult,High,Survived
+1178,Alex Brown,40,male,3,269.395,C,1,Adult,High,Survived
+1179,David Brown,29,female,2,269.395,S,0,Adult,High,Not Survived
+1180,Sara Taylor,19,female,2,427.94,C,1,Adult,Very High,Survived
+1181,Alex Brown,40,female,3,400.36,S,1,Adult,Very High,Survived
+1182,John Taylor,41,female,3,316.17,Q,0,Adult,Very High,Not Survived
+1183,Sara Smith,13,male,2,200.94,S,1,Teen,High,Survived
+1184,Sara Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+1185,David Brown,40,female,3,269.395,S,0,Adult,High,Not Survived
+1186,John Brown,32,female,2,269.395,C,0,Adult,High,Not Survived
+1187,Sara Smith,58,female,2,381.5,S,0,Adult,Very High,Not Survived
+1188,Chris Smith,57,female,2,269.395,S,1,Adult,High,Survived
+1189,Mary Smith,40,male,2,357.59,C,0,Adult,Very High,Not Survived
+1190,Alex Taylor,40,female,2,269.395,S,1,Adult,High,Survived
+1191,Sara Brown,40,female,2,212.41,Q,0,Adult,High,Not Survived
+1192,Chris Smith,40,female,3,269.395,C,1,Adult,High,Survived
+1193,Sophia Taylor,40,female,2,269.395,S,1,Adult,High,Survived
+1194,Mary Taylor,40,female,3,250.11,Q,0,Adult,High,Not Survived
+1195,Emma Brown,10,female,3,431.76,S,0,Child,Very High,Not Survived
+1196,David Smith,40,female,2,437.75,S,1,Adult,Very High,Survived
+1197,Sara Smith,40,male,2,269.395,S,0,Adult,High,Not Survived
+1198,Sophia Smith,40,male,2,269.395,Q,0,Adult,High,Not Survived
+1199,Alex Brown,40,female,1,269.395,S,1,Adult,High,Survived
+1200,Chris Brown,11,female,3,40.37,Q,0,Child,Low,Not Survived
+1201,Alex Smith,53,female,1,269.395,Q,0,Adult,High,Not Survived
+1202,Chris Brown,34,female,1,269.395,S,0,Adult,High,Not Survived
+1203,Mary Smith,3,female,3,331.46,S,1,Child,Very High,Survived
+1204,Emma Taylor,29,female,2,291.9,C,1,Adult,High,Survived
+1205,John Smith,40,female,1,269.395,Q,1,Adult,High,Survived
+1206,Alex Taylor,40,female,2,397.77,S,1,Adult,Very High,Survived
+1207,Sara Taylor,40,female,3,269.395,C,0,Adult,High,Not Survived
+1208,Mary Smith,40,male,1,269.395,C,0,Adult,High,Not Survived
+1209,Alex Taylor,40,female,2,269.395,C,0,Adult,High,Not Survived
+1210,Mary Taylor,60,male,3,269.395,C,0,Adult,High,Not Survived
+1211,Emma Brown,40,female,1,269.395,S,1,Adult,High,Survived
+1212,Sophia Brown,16,female,3,269.395,S,1,Teen,High,Survived
+1213,Emma Taylor,40,female,3,269.395,Q,1,Adult,High,Survived
+1214,Chris Taylor,21,female,3,269.395,S,0,Adult,High,Not Survived
+1215,Sophia Smith,40,female,1,165.56,S,1,Adult,High,Survived
+1216,Alex Taylor,62,female,1,397.45,S,0,Senior,Very High,Not Survived
+1217,Sara Taylor,75,female,3,269.395,S,0,Senior,High,Not Survived
+1218,Sophia Taylor,40,male,3,269.395,S,0,Adult,High,Not Survived
+1219,Alex Smith,31,female,3,336.29,C,1,Adult,Very High,Survived
+1220,Emma Brown,49,female,3,269.395,S,0,Adult,High,Not Survived
+1221,Sara Brown,23,male,3,269.395,C,1,Adult,High,Survived
+1222,Emma Brown,47,female,1,269.395,C,0,Adult,High,Not Survived
+1223,John Brown,46,male,3,269.395,S,1,Adult,High,Survived
+1224,Chris Brown,5,female,1,269.395,C,0,Child,High,Not Survived
+1225,Alex Smith,21,female,2,123.1,C,1,Adult,Medium,Survived
+1226,David Taylor,39,female,1,269.395,Q,0,Adult,High,Not Survived
+1227,Mary Brown,72,female,1,433.78,C,0,Senior,Very High,Not Survived
+1228,Sara Taylor,40,female,1,317.05,S,0,Adult,Very High,Not Survived
+1229,Sara Smith,51,female,1,459.43,S,0,Adult,Very High,Not Survived
+1230,Alex Smith,40,female,3,269.395,S,0,Adult,High,Not Survived
+1231,Mary Smith,66,female,1,269.395,C,1,Senior,High,Survived
+1232,Sophia Brown,40,female,3,422.19,C,0,Adult,Very High,Not Survived
+1233,Emma Smith,40,female,3,453.0,C,1,Adult,Very High,Survived
+1234,Emma Brown,63,female,1,269.395,Q,1,Senior,High,Survived
+1235,Chris Taylor,40,female,3,269.395,C,0,Adult,High,Not Survived
+1236,Chris Taylor,5,female,2,269.395,Q,0,Child,High,Not Survived
+1237,Sophia Brown,23,female,1,363.68,S,0,Adult,Very High,Not Survived
+1238,David Brown,40,female,2,269.395,S,1,Adult,High,Survived
+1239,Sara Smith,47,female,2,269.395,Q,1,Adult,High,Survived
+1240,David Taylor,40,male,3,269.395,S,0,Adult,High,Not Survived
+1241,John Smith,40,male,2,269.395,Q,0,Adult,High,Not Survived
+1242,David Smith,40,male,3,97.91,Q,0,Adult,Medium,Not Survived
+1243,Alex Taylor,50,female,1,460.72,S,1,Adult,Very High,Survived
+1244,Sophia Brown,41,male,3,37.22,C,1,Adult,Low,Survived
+1245,Sara Brown,5,male,1,9.14,C,0,Child,Low,Not Survived
+1246,Chris Smith,71,female,3,269.395,S,1,Senior,High,Survived
+1247,Sophia Taylor,20,female,2,17.54,C,1,Adult,Low,Survived
+1248,Sara Smith,40,female,2,66.75,S,0,Adult,Medium,Not Survived
+1249,Alex Brown,40,female,1,269.395,S,1,Adult,High,Survived
+1250,Chris Brown,40,female,1,150.41,Q,1,Adult,High,Survived
+1251,Mary Taylor,55,female,1,269.395,S,1,Adult,High,Survived
+1252,Chris Taylor,12,female,3,269.395,Q,0,Child,High,Not Survived
+1253,Sara Smith,13,female,2,269.395,S,0,Teen,High,Not Survived
+1254,Sophia Brown,35,female,3,366.66,S,0,Adult,Very High,Not Survived
+1255,John Taylor,46,female,2,269.395,Q,1,Adult,High,Survived
+1256,Mary Smith,40,female,2,269.395,C,1,Adult,High,Survived
+1257,Alex Brown,45,male,3,400.87,S,1,Adult,Very High,Survived
+1258,Sophia Smith,40,female,3,269.395,C,1,Adult,High,Survived
+1259,Emma Taylor,40,female,1,269.395,S,1,Adult,High,Survived
+1260,Emma Smith,22,female,2,269.395,S,0,Adult,High,Not Survived
+1261,Emma Taylor,69,female,1,269.395,S,1,Senior,High,Survived
+1262,John Taylor,40,female,2,269.395,C,0,Adult,High,Not Survived
+1263,David Brown,40,female,2,9.81,C,0,Adult,Low,Not Survived
+1264,David Brown,48,male,2,390.66,C,1,Adult,Very High,Survived
+1265,Chris Smith,17,female,3,196.94,S,1,Teen,High,Survived
+1266,Mary Brown,40,female,1,269.39,C,1,Adult,High,Survived
+1267,Emma Smith,56,female,2,58.64,Q,1,Adult,Medium,Survived
+1268,Sara Taylor,40,male,3,269.395,S,0,Adult,High,Not Survived
+1269,Sara Taylor,3,female,3,301.97,S,1,Child,Very High,Survived
+1270,Chris Brown,71,female,1,269.4,Q,1,Senior,High,Survived
+1271,Chris Smith,55,female,1,36.03,S,1,Adult,Low,Survived
+1272,Alex Taylor,5,female,2,11.42,S,1,Child,Low,Survived
+1273,David Smith,35,female,1,269.395,S,0,Adult,High,Not Survived
+1274,Alex Smith,40,female,3,279.75,S,1,Adult,High,Survived
+1275,Sophia Taylor,38,female,1,258.14,S,1,Adult,High,Survived
+1276,Mary Taylor,40,male,3,269.395,Q,0,Adult,High,Not Survived
+1277,Chris Taylor,40,female,2,428.55,S,0,Adult,Very High,Not Survived
+1278,Sophia Brown,14,female,1,269.395,S,0,Teen,High,Not Survived
+1279,Alex Smith,13,female,1,269.395,C,1,Teen,High,Survived
+1280,Sophia Smith,40,female,1,414.81,Q,1,Adult,Very High,Survived
+1281,John Taylor,40,male,1,331.79,C,0,Adult,Very High,Not Survived
+1282,Alex Brown,40,male,3,269.395,C,1,Adult,High,Survived
+1283,Sophia Brown,40,female,3,222.9,Q,1,Adult,High,Survived
+1284,Chris Smith,40,female,2,113.74,S,0,Adult,Medium,Not Survived
+1285,David Taylor,40,female,1,269.395,S,0,Adult,High,Not Survived
+1286,Alex Smith,40,female,1,269.395,Q,1,Adult,High,Survived
+1287,John Smith,58,female,3,269.395,Q,1,Adult,High,Survived
+1288,Mary Brown,78,male,2,307.01,C,1,Senior,Very High,Survived
+1289,Emma Taylor,40,female,2,269.395,Q,0,Adult,High,Not Survived
+1290,David Brown,40,female,1,373.25,Q,1,Adult,Very High,Survived
+1291,Mary Brown,75,female,2,439.46,S,0,Senior,Very High,Not Survived
+1292,Chris Brown,40,female,2,269.395,C,0,Adult,High,Not Survived
+1293,Chris Taylor,40,female,2,269.395,Q,1,Adult,High,Survived
+1294,Chris Smith,15,female,2,269.395,C,1,Teen,High,Survived
+1295,Alex Smith,40,female,3,365.13,C,1,Adult,Very High,Survived
+1296,Emma Smith,40,female,3,269.395,S,1,Adult,High,Survived
+1297,Mary Brown,54,female,1,269.395,S,0,Adult,High,Not Survived
+1298,Sara Smith,40,male,2,50.81,S,0,Adult,Medium,Not Survived
+1299,John Smith,40,female,2,269.395,C,1,Adult,High,Survived
+1300,Sophia Smith,50,female,3,269.395,S,1,Adult,High,Survived
+1301,Alex Taylor,37,female,2,269.395,S,1,Adult,High,Survived
+1302,Sophia Brown,40,female,2,269.395,C,1,Adult,High,Survived
+1303,David Taylor,40,female,2,192.12,S,0,Adult,High,Not Survived
+1304,John Brown,33,male,3,20.12,S,0,Adult,Low,Not Survived
+1305,Chris Taylor,25,male,3,269.395,C,1,Adult,High,Survived
+1306,Mary Smith,40,female,2,269.395,Q,1,Adult,High,Survived
+1307,Mary Smith,40,female,2,323.96,S,0,Adult,Very High,Not Survived
+1308,Emma Taylor,40,female,1,269.395,S,0,Adult,High,Not Survived
+1309,Sara Smith,40,male,2,34.18,Q,0,Adult,Low,Not Survived
+1310,Alex Smith,59,male,2,269.395,Q,0,Adult,High,Not Survived
+1311,Mary Taylor,34,male,3,17.7,C,1,Adult,Low,Survived
+1312,Sophia Brown,15,male,2,269.395,Q,0,Teen,High,Not Survived
+1313,Alex Smith,40,female,3,269.395,C,1,Adult,High,Survived
+1314,Chris Taylor,8,female,3,269.395,S,0,Child,High,Not Survived
+1315,David Brown,40,female,3,269.395,S,0,Adult,High,Not Survived
+1316,Sophia Taylor,40,male,2,304.56,Q,1,Adult,Very High,Survived
+1317,John Smith,40,female,2,269.395,S,1,Adult,High,Survived
+1318,Sara Smith,40,male,1,395.27,Q,1,Adult,Very High,Survived
+1319,Alex Taylor,40,female,2,190.03,S,0,Adult,High,Not Survived
+1320,John Brown,24,female,1,30.08,S,0,Adult,Low,Not Survived
+1321,Sophia Smith,5,female,1,78.41,C,0,Child,Medium,Not Survived
+1322,Sara Taylor,75,male,1,181.29,S,1,Senior,High,Survived
+1323,Mary Taylor,32,female,3,311.36,Q,1,Adult,Very High,Survived
+1324,Alex Brown,73,female,3,277.99,Q,0,Senior,High,Not Survived
+1325,Sophia Smith,36,female,3,269.395,Q,0,Adult,High,Not Survived
+1326,Sara Brown,40,female,3,269.395,C,1,Adult,High,Survived
+1327,Alex Smith,35,male,1,269.395,S,0,Adult,High,Not Survived
+1328,Mary Smith,59,male,1,269.395,C,0,Adult,High,Not Survived
+1329,David Brown,40,male,3,269.395,Q,0,Adult,High,Not Survived
+1330,Mary Brown,11,female,1,269.395,S,1,Child,High,Survived
+1331,Alex Smith,40,male,1,286.41,Q,1,Adult,High,Survived
+1332,Chris Brown,7,female,3,269.395,S,1,Child,High,Survived
+1333,John Smith,31,male,1,269.395,S,1,Adult,High,Survived
+1334,Alex Brown,40,male,2,468.56,S,1,Adult,Very High,Survived
+1335,John Smith,40,male,3,80.95,Q,0,Adult,Medium,Not Survived
+1336,Emma Smith,40,female,2,269.395,Q,0,Adult,High,Not Survived
+1337,Sophia Taylor,40,female,3,326.67,S,1,Adult,Very High,Survived
+1338,David Brown,40,female,2,464.86,C,1,Adult,Very High,Survived
+1339,Sophia Brown,26,male,1,269.395,C,1,Adult,High,Survived
+1340,Mary Brown,40,female,3,269.395,S,0,Adult,High,Not Survived
+1341,David Taylor,40,male,2,269.395,Q,1,Adult,High,Survived
+1342,John Smith,40,female,2,269.395,C,0,Adult,High,Not Survived
+1343,John Taylor,67,female,3,301.24,S,0,Senior,Very High,Not Survived
+1344,Mary Brown,40,male,1,269.395,S,0,Adult,High,Not Survived
+1345,Chris Taylor,15,female,2,269.395,C,0,Teen,High,Not Survived
+1346,David Smith,27,female,3,269.395,Q,1,Adult,High,Survived
+1347,Emma Taylor,67,male,1,269.395,S,0,Senior,High,Not Survived
+1348,John Brown,7,female,1,269.395,S,1,Child,High,Survived
+1349,Chris Smith,30,female,1,269.395,C,0,Adult,High,Not Survived
+1350,Mary Brown,4,female,1,430.4,S,1,Child,Very High,Survived
+1351,Sara Brown,8,male,1,34.5,Q,0,Child,Low,Not Survived
+1352,John Brown,40,female,2,327.68,S,0,Adult,Very High,Not Survived
+1353,Mary Brown,37,female,2,85.39,C,0,Adult,Medium,Not Survived
+1354,Mary Brown,72,female,3,11.41,S,0,Senior,Low,Not Survived
+1355,Alex Brown,76,male,2,269.395,C,1,Senior,High,Survived
+1356,Sophia Brown,74,female,3,269.395,S,0,Senior,High,Not Survived
+1357,Alex Brown,40,female,3,138.82,Q,1,Adult,Medium,Survived
+1358,David Smith,40,female,3,269.395,Q,1,Adult,High,Survived
+1359,Chris Taylor,34,male,1,289.18,Q,0,Adult,High,Not Survived
+1360,David Taylor,73,female,2,269.395,S,0,Senior,High,Not Survived
+1361,Alex Brown,70,female,3,476.28,Q,1,Senior,Very High,Survived
+1362,John Taylor,34,female,3,275.29,Q,0,Adult,High,Not Survived
+1363,Sara Brown,40,female,3,46.92,Q,0,Adult,Low,Not Survived
+1364,Mary Brown,40,female,2,269.395,Q,0,Adult,High,Not Survived
+1365,Emma Taylor,40,male,2,409.25,Q,1,Adult,Very High,Survived
+1366,John Brown,40,male,2,269.395,Q,1,Adult,High,Survived
+1367,Alex Brown,40,female,1,263.82,S,1,Adult,High,Survived
+1368,Sophia Smith,40,female,3,156.01,Q,0,Adult,High,Not Survived
+1369,Sophia Taylor,27,male,2,198.61,C,0,Adult,High,Not Survived
+1370,Sara Smith,40,female,3,207.77,Q,0,Adult,High,Not Survived
+1371,David Smith,40,female,3,269.395,S,1,Adult,High,Survived
+1372,David Taylor,28,male,1,282.98,S,0,Adult,High,Not Survived
+1373,Chris Taylor,16,female,2,335.14,S,1,Teen,Very High,Survived
+1374,Chris Smith,40,female,1,269.395,C,1,Adult,High,Survived
+1375,Chris Brown,40,male,2,269.395,S,1,Adult,High,Survived
+1376,John Brown,20,male,3,151.65,Q,0,Adult,High,Not Survived
+1377,Alex Brown,28,female,1,317.73,S,0,Adult,Very High,Not Survived
+1378,Emma Smith,40,male,1,307.21,S,1,Adult,Very High,Survived
+1379,Chris Brown,40,male,1,269.395,C,1,Adult,High,Survived
+1380,Chris Smith,7,female,2,269.395,C,0,Child,High,Not Survived
+1381,Mary Smith,10,male,1,241.45,Q,0,Child,High,Not Survived
+1382,Chris Taylor,33,female,1,269.395,S,0,Adult,High,Not Survived
+1383,David Smith,56,female,3,382.27,S,0,Adult,Very High,Not Survived
+1384,Sara Smith,40,female,1,269.395,S,0,Adult,High,Not Survived
+1385,Sophia Taylor,50,female,2,335.87,C,1,Adult,Very High,Survived
+1386,John Brown,40,male,3,71.43,S,0,Adult,Medium,Not Survived
+1387,Alex Brown,20,female,2,140.42,Q,0,Adult,Medium,Not Survived
+1388,Sara Brown,40,female,1,226.26,Q,1,Adult,High,Survived
+1389,Mary Brown,72,male,2,269.395,S,1,Senior,High,Survived
+1390,Emma Smith,14,female,1,225.51,S,0,Teen,High,Not Survived
+1391,David Brown,40,female,2,269.395,Q,0,Adult,High,Not Survived
+1392,Mary Smith,58,female,3,59.14,S,1,Adult,Medium,Survived
+1393,Sara Taylor,28,male,3,269.395,Q,0,Adult,High,Not Survived
+1394,Emma Taylor,7,male,2,269.395,S,0,Child,High,Not Survived
+1395,John Taylor,40,female,3,269.395,S,0,Adult,High,Not Survived
+1396,John Taylor,40,female,1,269.395,S,1,Adult,High,Survived
+1397,Emma Brown,79,male,1,269.395,C,0,Senior,High,Not Survived
+1398,John Smith,5,female,3,269.395,Q,1,Child,High,Survived
+1399,Alex Brown,36,male,1,387.39,Q,1,Adult,Very High,Survived
+1400,John Smith,40,female,2,269.395,Q,0,Adult,High,Not Survived
+1401,Sara Brown,77,female,3,176.83,S,0,Senior,High,Not Survived
+1402,David Smith,40,female,2,111.26,S,1,Adult,Medium,Survived
+1403,David Brown,40,male,1,269.395,S,0,Adult,High,Not Survived
+1404,Chris Taylor,40,female,2,215.29,C,1,Adult,High,Survived
+1405,Chris Smith,40,male,3,269.395,Q,1,Adult,High,Survived
+1406,John Brown,42,female,1,497.16,C,0,Adult,Very High,Not Survived
+1407,Mary Smith,59,male,2,269.395,C,1,Adult,High,Survived
+1408,Mary Smith,40,female,1,269.395,S,0,Adult,High,Not Survived
+1409,Sara Smith,62,male,3,298.18,S,1,Senior,High,Survived
+1410,Sara Brown,43,male,3,269.395,S,0,Adult,High,Not Survived
+1411,Sara Brown,12,female,3,269.395,Q,1,Child,High,Survived
+1412,John Smith,40,male,1,119.74,S,0,Adult,Medium,Not Survived
+1413,David Taylor,29,female,2,66.45,S,1,Adult,Medium,Survived
+1414,John Brown,40,female,1,179.49,Q,0,Adult,High,Not Survived
+1415,Alex Taylor,40,female,2,161.62,S,1,Adult,High,Survived
+1416,Emma Smith,44,female,2,269.395,S,0,Adult,High,Not Survived
+1417,John Brown,40,male,1,126.67,S,1,Adult,Medium,Survived
+1418,Emma Brown,36,female,2,269.395,C,1,Adult,High,Survived
+1419,Chris Smith,36,female,2,298.48,C,1,Adult,High,Survived
+1420,David Brown,40,male,3,284.32,Q,0,Adult,High,Not Survived
+1421,Emma Brown,79,female,1,269.395,C,1,Senior,High,Survived
+1422,Emma Smith,40,female,1,308.01,Q,0,Adult,Very High,Not Survived
+1423,Emma Smith,40,male,3,104.67,S,1,Adult,Medium,Survived
+1424,David Smith,17,male,1,269.395,C,1,Teen,High,Survived
+1425,Alex Taylor,16,female,1,269.395,C,0,Teen,High,Not Survived
+1426,Sara Taylor,40,male,3,108.68,S,1,Adult,Medium,Survived
+1427,John Brown,6,male,3,269.395,S,0,Child,High,Not Survived
+1428,Alex Taylor,62,male,2,269.395,S,1,Senior,High,Survived
+1429,Alex Brown,40,male,1,269.395,S,0,Adult,High,Not Survived
+1430,Alex Smith,40,male,2,119.21,Q,1,Adult,Medium,Survived
+1431,John Brown,40,female,3,201.9,Q,0,Adult,High,Not Survived
+1432,Chris Taylor,21,female,1,269.395,C,0,Adult,High,Not Survived
+1433,Sophia Smith,50,female,1,269.395,C,1,Adult,High,Survived
+1434,Mary Taylor,40,female,1,277.52,S,1,Adult,High,Survived
+1435,Sara Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+1436,Sophia Taylor,40,female,2,269.395,S,1,Adult,High,Survived
+1437,David Smith,40,female,2,343.69,S,1,Adult,Very High,Survived
+1438,Sophia Brown,40,female,3,107.94,Q,0,Adult,Medium,Not Survived
+1439,Alex Brown,40,female,2,118.77,S,0,Adult,Medium,Not Survived
+1440,Alex Brown,40,male,1,269.395,S,1,Adult,High,Survived
+1441,David Taylor,40,male,3,96.74,S,1,Adult,Medium,Survived
+1442,Sara Taylor,40,male,3,352.89,S,0,Adult,Very High,Not Survived
+1443,John Smith,52,male,1,269.395,S,1,Adult,High,Survived
+1444,Mary Smith,40,male,3,269.395,S,1,Adult,High,Survived
+1445,Alex Smith,40,male,2,467.73,Q,0,Adult,Very High,Not Survived
+1446,Emma Smith,40,male,1,353.98,S,0,Adult,Very High,Not Survived
+1447,Sara Smith,39,female,2,269.395,C,1,Adult,High,Survived
+1448,John Smith,40,female,3,269.395,S,0,Adult,High,Not Survived
+1449,Mary Taylor,40,male,3,262.75,Q,0,Adult,High,Not Survived
+1450,Emma Smith,31,female,2,243.65,Q,0,Adult,High,Not Survived
+1451,Sara Smith,2,female,1,417.02,S,0,Child,Very High,Not Survived
+1452,Mary Smith,11,female,1,260.74,Q,1,Child,High,Survived
+1453,Sara Smith,40,female,2,399.08,S,1,Adult,Very High,Survived
+1454,Chris Taylor,66,male,3,359.46,Q,0,Senior,Very High,Not Survived
+1455,Alex Brown,58,female,2,269.395,S,1,Adult,High,Survived
+1456,Alex Brown,1,female,2,269.395,C,1,Child,High,Survived
+1457,Alex Taylor,21,female,3,233.85,C,1,Adult,High,Survived
+1458,Mary Brown,40,male,3,388.8,Q,1,Adult,Very High,Survived
+1459,Chris Brown,23,male,3,392.64,S,1,Adult,Very High,Survived
+1460,David Smith,40,female,1,269.395,S,0,Adult,High,Not Survived
+1461,Sara Smith,80,female,3,269.395,S,1,Senior,High,Survived
+1462,Sophia Brown,40,female,2,269.395,C,0,Adult,High,Not Survived
+1463,Sophia Smith,57,male,1,174.99,C,1,Adult,High,Survived
+1464,Sara Smith,40,female,2,269.395,C,1,Adult,High,Survived
+1465,Emma Brown,40,male,2,134.84,S,0,Adult,Medium,Not Survived
+1466,Sophia Taylor,28,female,1,269.395,S,1,Adult,High,Survived
+1467,Emma Brown,72,female,1,269.395,S,0,Senior,High,Not Survived
+1468,Sara Smith,40,female,1,396.29,Q,0,Adult,Very High,Not Survived
+1469,Emma Taylor,75,female,2,269.395,S,0,Senior,High,Not Survived
+1470,Sara Brown,40,female,2,269.395,S,1,Adult,High,Survived
+1471,Sophia Taylor,40,female,1,269.395,C,0,Adult,High,Not Survived
+1472,Mary Taylor,6,male,3,269.395,Q,0,Child,High,Not Survived
+1473,David Smith,43,female,3,137.57,S,1,Adult,Medium,Survived
+1474,Sara Taylor,72,female,3,131.08,C,0,Senior,Medium,Not Survived
+1475,Alex Smith,40,female,1,269.395,S,0,Adult,High,Not Survived
+1476,John Taylor,40,female,1,470.94,Q,0,Adult,Very High,Not Survived
+1477,David Smith,40,female,3,269.395,S,1,Adult,High,Survived
+1478,Chris Taylor,12,male,2,207.29,S,0,Child,High,Not Survived
+1479,David Taylor,40,female,3,37.39,Q,1,Adult,Low,Survived
+1480,John Taylor,45,female,2,196.32,C,1,Adult,High,Survived
+1481,Sophia Brown,40,female,2,269.395,S,0,Adult,High,Not Survived
+1482,Mary Taylor,72,female,1,395.13,S,1,Senior,Very High,Survived
+1483,David Taylor,47,female,1,324.54,C,0,Adult,Very High,Not Survived
+1484,Sara Taylor,40,male,2,445.96,S,1,Adult,Very High,Survived
+1485,Sophia Taylor,40,male,1,321.62,C,0,Adult,Very High,Not Survived
+1486,Emma Smith,40,female,1,414.19,Q,1,Adult,Very High,Survived
+1487,Chris Smith,26,male,1,218.81,Q,1,Adult,High,Survived
+1488,Sara Taylor,40,female,2,269.395,C,0,Adult,High,Not Survived
+1489,Emma Taylor,40,female,1,149.7,S,0,Adult,Medium,Not Survived
+1490,Emma Brown,38,female,3,426.6,S,0,Adult,Very High,Not Survived
+1491,John Smith,14,female,1,310.27,S,1,Teen,Very High,Survived
+1492,Sophia Smith,40,female,1,269.395,S,0,Adult,High,Not Survived
+1493,Chris Taylor,40,female,2,269.395,S,0,Adult,High,Not Survived
+1494,Emma Smith,40,female,3,269.395,S,1,Adult,High,Survived
+1495,Sara Brown,40,female,1,269.395,S,1,Adult,High,Survived
+1496,Sophia Smith,40,male,1,283.83,S,1,Adult,High,Survived
+1497,David Brown,40,female,2,269.395,Q,1,Adult,High,Survived
+1498,Alex Smith,72,female,3,350.45,S,0,Senior,Very High,Not Survived
+1499,David Taylor,50,male,1,269.395,Q,0,Adult,High,Not Survived
+1500,John Brown,40,male,3,329.58,Q,1,Adult,Very High,Survived
+1501,Sophia Smith,6,male,1,269.395,S,1,Child,High,Survived
+1502,Sophia Brown,18,male,2,64.11,Q,1,Teen,Medium,Survived
+1503,Mary Taylor,16,female,3,269.395,Q,0,Teen,High,Not Survived
+1504,Sara Smith,40,female,3,269.395,Q,1,Adult,High,Survived
+1505,Alex Taylor,40,female,1,269.395,S,1,Adult,High,Survived
+1506,John Taylor,40,female,1,269.395,S,1,Adult,High,Survived
+1507,David Brown,40,female,3,269.395,S,1,Adult,High,Survived
+1508,Emma Brown,40,female,1,98.23,S,0,Adult,Medium,Not Survived
+1509,Emma Brown,47,female,1,365.72,Q,1,Adult,Very High,Survived
+1510,Mary Smith,63,female,3,269.395,S,1,Senior,High,Survived
+1511,Mary Brown,40,male,2,269.395,C,0,Adult,High,Not Survived
+1512,Mary Brown,40,female,1,84.98,Q,0,Adult,Medium,Not Survived
+1513,Sara Smith,40,female,3,21.93,Q,0,Adult,Low,Not Survived
+1514,Sara Smith,40,female,2,269.395,Q,1,Adult,High,Survived
+1515,Sophia Taylor,23,female,3,299.64,S,1,Adult,High,Survived
+1516,Sophia Smith,40,male,3,380.17,Q,0,Adult,Very High,Not Survived
+1517,John Smith,40,male,2,269.395,C,0,Adult,High,Not Survived
+1518,Alex Brown,40,female,3,269.395,Q,1,Adult,High,Survived
+1519,John Smith,40,male,1,269.395,C,1,Adult,High,Survived
+1520,Sophia Brown,57,female,1,269.395,Q,0,Adult,High,Not Survived
+1521,Emma Taylor,40,male,3,367.59,C,0,Adult,Very High,Not Survived
+1522,Emma Taylor,57,male,3,25.07,S,1,Adult,Low,Survived
+1523,Emma Taylor,40,female,3,308.35,S,1,Adult,Very High,Survived
+1524,Emma Taylor,40,female,2,410.37,S,0,Adult,Very High,Not Survived
+1525,Emma Taylor,61,male,2,269.395,S,1,Senior,High,Survived
+1526,Sophia Taylor,40,male,3,145.98,S,0,Adult,Medium,Not Survived
+1527,Sara Taylor,40,male,3,269.395,S,1,Adult,High,Survived
+1528,David Taylor,52,male,1,269.395,S,0,Adult,High,Not Survived
+1529,John Smith,40,female,1,269.395,S,1,Adult,High,Survived
+1530,Sara Brown,40,male,3,269.395,C,0,Adult,High,Not Survived
+1531,Chris Taylor,72,female,3,269.395,S,1,Senior,High,Survived
+1532,Chris Smith,66,male,3,269.395,S,1,Senior,High,Survived
+1533,Sara Brown,50,female,3,269.395,S,0,Adult,High,Not Survived
+1534,John Brown,55,female,1,37.84,S,0,Adult,Low,Not Survived
+1535,Emma Brown,24,female,2,195.45,S,0,Adult,High,Not Survived
+1536,Mary Taylor,68,male,1,93.9,Q,1,Senior,Medium,Survived
+1537,John Taylor,55,female,1,269.395,Q,0,Adult,High,Not Survived
+1538,Chris Brown,40,female,2,486.26,S,0,Adult,Very High,Not Survived
+1539,Sara Taylor,40,male,2,269.395,Q,1,Adult,High,Survived
+1540,Alex Taylor,40,female,2,95.0,C,0,Adult,Medium,Not Survived
+1541,David Brown,55,male,2,236.07,S,1,Adult,High,Survived
+1542,Sara Brown,40,female,2,269.395,C,0,Adult,High,Not Survived
+1543,Mary Brown,17,female,1,442.94,C,0,Teen,Very High,Not Survived
+1544,Emma Smith,40,female,3,487.4,S,0,Adult,Very High,Not Survived
+1545,Mary Smith,43,female,2,303.56,S,1,Adult,Very High,Survived
+1546,Mary Smith,40,female,2,269.395,C,1,Adult,High,Survived
+1547,Mary Brown,71,female,3,269.395,C,1,Senior,High,Survived
+1548,Alex Taylor,39,female,1,269.395,S,1,Adult,High,Survived
+1549,Alex Brown,34,female,1,269.395,Q,1,Adult,High,Survived
+1550,John Smith,60,male,1,463.86,S,1,Adult,Very High,Survived
+1551,John Taylor,13,male,3,454.52,S,0,Teen,Very High,Not Survived
+1552,Mary Smith,64,female,2,269.395,Q,1,Senior,High,Survived
+1553,John Brown,60,male,2,17.54,S,1,Adult,Low,Survived
+1554,John Brown,37,female,1,269.395,Q,1,Adult,High,Survived
+1555,Chris Smith,40,female,1,269.395,C,1,Adult,High,Survived
+1556,Emma Brown,78,female,1,269.395,Q,0,Senior,High,Not Survived
+1557,Mary Taylor,21,male,1,269.395,Q,0,Adult,High,Not Survived
+1558,Mary Brown,40,female,3,269.395,C,1,Adult,High,Survived
+1559,Sara Brown,40,female,3,43.86,S,0,Adult,Low,Not Survived
+1560,David Taylor,40,male,2,269.395,S,0,Adult,High,Not Survived
+1561,Chris Smith,11,male,1,269.395,S,0,Child,High,Not Survived
+1562,Alex Brown,40,female,2,17.76,Q,1,Adult,Low,Survived
+1563,Sara Smith,37,female,2,269.395,C,0,Adult,High,Not Survived
+1564,Sophia Brown,40,male,1,269.395,Q,0,Adult,High,Not Survived
+1565,John Smith,59,male,1,430.57,C,1,Adult,Very High,Survived
+1566,Alex Brown,40,female,2,269.395,S,1,Adult,High,Survived
+1567,Mary Taylor,31,female,2,269.395,S,0,Adult,High,Not Survived
+1568,Chris Brown,40,male,1,269.395,S,0,Adult,High,Not Survived
+1569,Chris Brown,40,female,3,269.395,S,0,Adult,High,Not Survived
+1570,Mary Brown,40,female,3,269.395,S,0,Adult,High,Not Survived
+1571,Emma Smith,46,male,1,269.395,S,1,Adult,High,Survived
+1572,Chris Brown,40,male,1,269.395,S,1,Adult,High,Survived
+1573,Emma Taylor,40,female,1,269.395,S,0,Adult,High,Not Survived
+1574,John Taylor,40,male,3,269.395,Q,0,Adult,High,Not Survived
+1575,Emma Brown,79,female,3,269.395,Q,1,Senior,High,Survived
+1576,Alex Taylor,40,male,2,268.75,C,1,Adult,High,Survived
+1577,David Brown,70,female,2,269.395,S,1,Senior,High,Survived
+1578,Sophia Smith,40,male,1,269.395,S,0,Adult,High,Not Survived
+1579,John Brown,47,female,3,269.395,C,1,Adult,High,Survived
+1580,Mary Smith,40,female,3,269.395,S,1,Adult,High,Survived
+1581,Sara Taylor,77,female,3,269.395,S,0,Senior,High,Not Survived
+1582,Sara Taylor,51,female,3,269.395,C,1,Adult,High,Survived
+1583,Emma Brown,9,female,3,269.395,S,0,Child,High,Not Survived
+1584,Sophia Taylor,40,female,2,269.395,C,0,Adult,High,Not Survived
+1585,Emma Brown,40,male,3,224.71,S,1,Adult,High,Survived
+1586,John Brown,40,male,2,212.83,Q,0,Adult,High,Not Survived
+1587,Chris Smith,40,male,2,269.395,Q,0,Adult,High,Not Survived
+1588,Emma Brown,17,female,3,269.395,Q,0,Teen,High,Not Survived
+1589,Alex Taylor,57,female,1,269.395,Q,0,Adult,High,Not Survived
+1590,Chris Brown,39,male,1,269.395,S,0,Adult,High,Not Survived
+1591,John Taylor,40,female,3,269.395,C,1,Adult,High,Survived
+1592,Emma Smith,40,female,3,269.395,S,0,Adult,High,Not Survived
+1593,Sara Smith,79,male,1,147.2,S,0,Senior,Medium,Not Survived
+1594,Chris Taylor,3,female,1,269.395,S,1,Child,High,Survived
+1595,John Taylor,40,male,3,186.82,S,1,Adult,High,Survived
+1596,Emma Brown,40,male,3,45.54,Q,0,Adult,Low,Not Survived
+1597,David Brown,55,female,2,269.395,C,1,Adult,High,Survived
+1598,David Smith,26,female,3,399.16,S,0,Adult,Very High,Not Survived
+1599,Alex Brown,40,female,1,269.395,S,1,Adult,High,Survived
+1600,Mary Taylor,75,male,3,269.395,C,0,Senior,High,Not Survived
+1601,Chris Taylor,1,female,3,269.395,S,0,Child,High,Not Survived
+1602,Emma Taylor,60,female,2,181.33,Q,0,Adult,High,Not Survived
+1603,Sara Brown,40,female,1,269.395,C,0,Adult,High,Not Survived
+1604,Alex Taylor,46,female,1,466.94,S,1,Adult,Very High,Survived
+1605,Chris Smith,40,female,1,269.395,C,1,Adult,High,Survived
+1606,Emma Smith,40,male,1,269.395,Q,0,Adult,High,Not Survived
+1607,Emma Taylor,40,male,1,332.83,Q,1,Adult,Very High,Survived
+1608,John Smith,40,male,2,269.395,Q,1,Adult,High,Survived
+1609,Mary Brown,9,male,3,363.33,Q,0,Child,Very High,Not Survived
+1610,Alex Taylor,75,male,2,495.73,Q,1,Senior,Very High,Survived
+1611,Sophia Brown,6,female,3,269.395,S,0,Child,High,Not Survived
+1612,Chris Smith,40,female,3,269.395,S,1,Adult,High,Survived
+1613,Mary Taylor,56,female,3,322.87,S,0,Adult,Very High,Not Survived
+1614,Mary Taylor,65,female,3,97.52,S,1,Senior,Medium,Survived
+1615,David Taylor,40,female,3,269.395,Q,0,Adult,High,Not Survived
+1616,Chris Smith,40,male,3,269.395,S,1,Adult,High,Survived
+1617,Sophia Smith,40,female,2,315.37,Q,0,Adult,Very High,Not Survived
+1618,Emma Taylor,40,male,3,269.395,S,1,Adult,High,Survived
+1619,Chris Smith,36,male,3,428.97,C,0,Adult,Very High,Not Survived
+1620,John Taylor,22,female,1,269.395,S,1,Adult,High,Survived
+1621,John Taylor,40,female,1,269.395,C,0,Adult,High,Not Survived
+1622,Alex Brown,59,female,2,269.395,S,1,Adult,High,Survived
+1623,Alex Brown,40,female,3,269.395,S,1,Adult,High,Survived
+1624,David Taylor,40,female,3,142.35,C,0,Adult,Medium,Not Survived
+1625,Sophia Taylor,40,male,1,227.72,C,1,Adult,High,Survived
+1626,Mary Brown,40,female,3,367.65,S,1,Adult,Very High,Survived
+1627,Alex Smith,17,female,3,313.12,S,1,Teen,Very High,Survived
+1628,John Taylor,38,female,2,18.86,C,1,Adult,Low,Survived
+1629,Sara Taylor,40,male,2,487.52,Q,1,Adult,Very High,Survived
+1630,Mary Brown,40,female,2,269.395,S,1,Adult,High,Survived
+1631,Sara Taylor,63,female,1,269.395,C,0,Senior,High,Not Survived
+1632,Emma Taylor,40,female,2,466.52,S,1,Adult,Very High,Survived
+1633,John Brown,40,female,3,269.395,Q,0,Adult,High,Not Survived
+1634,Sara Taylor,40,male,3,183.43,C,1,Adult,High,Survived
+1635,Mary Brown,40,female,2,169.85,S,1,Adult,High,Survived
+1636,Mary Brown,40,male,1,14.39,Q,0,Adult,Low,Not Survived
+1637,John Taylor,40,male,2,269.395,Q,1,Adult,High,Survived
+1638,Alex Taylor,40,male,1,269.395,Q,1,Adult,High,Survived
+1639,Chris Brown,60,female,2,269.395,Q,0,Adult,High,Not Survived
+1640,Alex Taylor,67,female,3,269.395,S,1,Senior,High,Survived
+1641,Sara Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+1642,Chris Smith,11,male,2,269.395,C,0,Child,High,Not Survived
+1643,Sara Taylor,40,male,2,269.395,S,1,Adult,High,Survived
+1644,David Brown,40,female,1,269.395,S,1,Adult,High,Survived
+1645,Emma Brown,40,male,1,269.395,S,1,Adult,High,Survived
+1646,John Brown,40,male,1,269.395,C,0,Adult,High,Not Survived
+1647,Alex Smith,79,male,2,269.395,Q,0,Senior,High,Not Survived
+1648,Sara Smith,2,female,2,269.395,S,0,Child,High,Not Survived
+1649,Emma Brown,13,female,1,395.45,S,0,Teen,Very High,Not Survived
+1650,Sara Taylor,77,female,1,181.29,C,0,Senior,High,Not Survived
+1651,David Taylor,40,female,2,173.33,S,1,Adult,High,Survived
+1652,Alex Taylor,8,female,1,111.96,C,1,Child,Medium,Survived
+1653,Mary Smith,43,female,2,378.92,C,1,Adult,Very High,Survived
+1654,Emma Brown,8,female,1,269.395,S,1,Child,High,Survived
+1655,Emma Brown,40,male,2,269.395,S,0,Adult,High,Not Survived
+1656,Alex Smith,40,male,2,19.26,Q,1,Adult,Low,Survived
+1657,Mary Brown,32,female,2,269.395,S,1,Adult,High,Survived
+1658,Chris Taylor,23,female,3,429.99,S,0,Adult,Very High,Not Survived
+1659,Chris Taylor,52,male,2,269.395,S,1,Adult,High,Survived
+1660,Sophia Smith,10,female,1,127.86,S,0,Child,Medium,Not Survived
+1661,Mary Brown,24,female,1,269.395,Q,0,Adult,High,Not Survived
+1662,Emma Smith,40,female,2,154.97,S,1,Adult,High,Survived
+1663,Emma Brown,40,female,1,269.395,C,0,Adult,High,Not Survived
+1664,John Smith,38,male,3,269.395,S,0,Adult,High,Not Survived
+1665,Sara Brown,47,female,2,269.395,S,0,Adult,High,Not Survived
+1666,Emma Brown,40,female,2,213.82,S,0,Adult,High,Not Survived
+1667,Emma Brown,40,male,3,269.395,S,0,Adult,High,Not Survived
+1668,Alex Smith,40,female,3,269.395,S,0,Adult,High,Not Survived
+1669,Alex Smith,48,male,1,408.46,S,1,Adult,Very High,Survived
+1670,Emma Smith,40,female,2,269.395,Q,0,Adult,High,Not Survived
+1671,Mary Brown,40,male,1,269.395,Q,1,Adult,High,Survived
+1672,Sara Taylor,63,male,1,344.06,S,0,Senior,Very High,Not Survived
+1673,Mary Taylor,40,female,3,475.27,S,1,Adult,Very High,Survived
+1674,Mary Brown,40,female,2,269.395,Q,1,Adult,High,Survived
+1675,Chris Smith,40,male,2,269.395,S,0,Adult,High,Not Survived
+1676,Emma Brown,40,female,1,384.51,S,0,Adult,Very High,Not Survived
+1677,John Brown,41,female,1,269.395,S,0,Adult,High,Not Survived
+1678,Alex Taylor,66,female,1,397.46,S,0,Senior,Very High,Not Survived
+1679,Sophia Taylor,42,male,1,431.2,C,0,Adult,Very High,Not Survived
+1680,Sophia Brown,40,male,2,269.395,Q,0,Adult,High,Not Survived
+1681,John Brown,44,male,1,392.57,S,1,Adult,Very High,Survived
+1682,Chris Brown,40,female,3,15.85,S,0,Adult,Low,Not Survived
+1683,Chris Taylor,9,female,3,234.75,C,1,Child,High,Survived
+1684,Emma Smith,40,male,1,151.57,Q,1,Adult,High,Survived
+1685,Sara Brown,36,female,3,269.395,S,1,Adult,High,Survived
+1686,Alex Smith,6,male,3,130.69,Q,1,Child,Medium,Survived
+1687,Sophia Taylor,47,male,3,269.395,S,0,Adult,High,Not Survived
+1688,Sara Taylor,40,male,1,269.395,S,1,Adult,High,Survived
+1689,David Brown,40,female,2,196.83,C,1,Adult,High,Survived
+1690,David Brown,66,female,2,176.65,S,1,Senior,High,Survived
+1691,Emma Smith,40,male,2,269.395,C,0,Adult,High,Not Survived
+1692,Chris Smith,69,female,1,452.09,S,1,Senior,Very High,Survived
+1693,Mary Smith,40,female,2,453.24,S,1,Adult,Very High,Survived
+1694,David Smith,53,male,1,269.395,S,0,Adult,High,Not Survived
+1695,Sara Brown,40,female,2,269.395,S,0,Adult,High,Not Survived
+1696,Sara Taylor,40,female,1,269.395,Q,1,Adult,High,Survived
+1697,Alex Smith,40,female,2,269.395,S,1,Adult,High,Survived
+1698,Mary Brown,40,female,3,312.46,C,0,Adult,Very High,Not Survived
+1699,David Smith,40,female,2,355.36,S,1,Adult,Very High,Survived
+1700,Sophia Taylor,6,female,2,471.97,S,0,Child,Very High,Not Survived
+1701,Mary Taylor,40,female,2,386.36,Q,0,Adult,Very High,Not Survived
+1702,Emma Smith,40,male,3,412.03,S,1,Adult,Very High,Survived
+1703,John Brown,63,male,2,269.395,C,1,Senior,High,Survived
+1704,Chris Smith,40,female,1,269.395,S,0,Adult,High,Not Survived
+1705,Sara Smith,6,female,3,269.395,Q,1,Child,High,Survived
+1706,Alex Taylor,77,female,3,269.395,Q,1,Senior,High,Survived
+1707,David Brown,77,male,3,269.395,S,1,Senior,High,Survived
+1708,John Brown,40,female,2,308.53,Q,1,Adult,Very High,Survived
+1709,Sophia Brown,43,male,2,269.395,S,0,Adult,High,Not Survived
+1710,Mary Brown,40,male,1,269.395,S,0,Adult,High,Not Survived
+1711,John Taylor,2,male,1,363.57,S,1,Child,Very High,Survived
+1712,John Brown,40,female,3,292.73,S,0,Adult,High,Not Survived
+1713,Emma Brown,40,female,1,384.98,Q,1,Adult,Very High,Survived
+1714,Alex Smith,40,male,3,269.395,C,1,Adult,High,Survived
+1715,Chris Taylor,40,male,2,150.07,Q,1,Adult,High,Survived
+1716,Sophia Taylor,66,female,3,318.1,S,0,Senior,Very High,Not Survived
+1717,Sophia Taylor,25,female,2,269.395,S,0,Adult,High,Not Survived
+1718,Mary Taylor,40,male,3,269.395,Q,0,Adult,High,Not Survived
+1719,Sophia Taylor,40,female,3,291.76,C,0,Adult,High,Not Survived
+1720,Alex Brown,40,female,1,269.395,S,0,Adult,High,Not Survived
+1721,Mary Smith,40,female,3,269.395,Q,0,Adult,High,Not Survived
+1722,Emma Smith,19,female,3,174.14,S,0,Adult,High,Not Survived
+1723,Chris Smith,28,male,3,269.395,Q,1,Adult,High,Survived
+1724,Emma Brown,3,female,3,269.395,Q,1,Child,High,Survived
+1725,Emma Taylor,40,male,2,29.38,S,1,Adult,Low,Survived
+1726,John Brown,19,male,3,177.94,S,1,Adult,High,Survived
+1727,Emma Taylor,40,female,1,203.45,S,0,Adult,High,Not Survived
+1728,Mary Smith,40,female,3,93.91,S,1,Adult,Medium,Survived
+1729,John Brown,3,male,2,6.48,C,1,Child,Low,Survived
+1730,Mary Smith,60,male,2,353.06,C,0,Adult,Very High,Not Survived
+1731,Emma Taylor,33,female,3,17.92,S,1,Adult,Low,Survived
+1732,Sara Brown,10,male,1,392.43,S,1,Child,Very High,Survived
+1733,John Smith,22,female,3,15.44,C,1,Adult,Low,Survived
+1734,Emma Smith,55,female,1,308.15,S,0,Adult,Very High,Not Survived
+1735,John Smith,47,female,1,269.395,Q,0,Adult,High,Not Survived
+1736,Emma Taylor,40,female,1,387.37,Q,1,Adult,Very High,Survived
+1737,Sophia Smith,40,male,3,234.84,Q,0,Adult,High,Not Survived
+1738,Sara Smith,40,female,3,285.71,C,1,Adult,High,Survived
+1739,Alex Smith,40,female,2,269.395,C,1,Adult,High,Survived
+1740,Chris Smith,71,male,3,269.395,S,0,Senior,High,Not Survived
+1741,Alex Taylor,40,male,2,79.56,S,1,Adult,Medium,Survived
+1742,Mary Taylor,80,female,3,269.395,C,1,Senior,High,Survived
+1743,Mary Brown,40,male,2,343.52,C,1,Adult,Very High,Survived
+1744,John Taylor,40,male,1,269.395,S,1,Adult,High,Survived
+1745,John Smith,11,female,1,269.395,Q,0,Child,High,Not Survived
+1746,Chris Brown,29,female,1,269.395,S,1,Adult,High,Survived
+1747,Alex Smith,40,female,1,177.16,S,1,Adult,High,Survived
+1748,Alex Smith,40,female,3,393.73,Q,1,Adult,Very High,Survived
+1749,Alex Taylor,40,female,3,499.94,Q,0,Adult,Very High,Not Survived
+1750,Emma Smith,40,female,3,269.395,Q,1,Adult,High,Survived
+1751,Chris Smith,46,female,2,269.395,S,1,Adult,High,Survived
+1752,Emma Brown,40,female,3,269.395,C,1,Adult,High,Survived
+1753,Sara Taylor,39,female,1,256.96,S,1,Adult,High,Survived
+1754,Mary Smith,40,female,1,269.395,S,1,Adult,High,Survived
+1755,David Taylor,40,female,2,41.6,S,1,Adult,Low,Survived
+1756,Mary Brown,40,female,3,7.66,Q,1,Adult,Low,Survived
+1757,David Taylor,77,female,2,269.395,S,1,Senior,High,Survived
+1758,Emma Brown,40,male,2,489.7,C,0,Adult,Very High,Not Survived
+1759,David Taylor,50,female,1,269.395,Q,0,Adult,High,Not Survived
+1760,Mary Brown,65,female,3,269.395,S,1,Senior,High,Survived
+1761,David Brown,42,female,1,490.45,S,0,Adult,Very High,Not Survived
+1762,Sara Taylor,76,female,3,269.395,S,1,Senior,High,Survived
+1763,Sophia Smith,40,female,2,269.395,S,1,Adult,High,Survived
+1764,Chris Brown,40,female,1,269.395,S,1,Adult,High,Survived
+1765,Chris Taylor,40,female,2,405.64,S,1,Adult,Very High,Survived
+1766,Alex Smith,75,male,3,456.59,S,0,Senior,Very High,Not Survived
+1767,Sophia Smith,40,male,3,404.47,Q,0,Adult,Very High,Not Survived
+1768,Sophia Smith,45,female,1,269.395,C,1,Adult,High,Survived
+1769,Sophia Taylor,40,male,2,269.395,Q,0,Adult,High,Not Survived
+1770,David Brown,40,male,2,269.395,S,1,Adult,High,Survived
+1771,John Smith,40,male,1,122.43,S,0,Adult,Medium,Not Survived
+1772,Sara Smith,40,male,3,269.395,C,0,Adult,High,Not Survived
+1773,Sara Taylor,21,female,2,150.61,S,1,Adult,High,Survived
+1774,Alex Brown,40,male,1,269.395,S,0,Adult,High,Not Survived
+1775,Mary Smith,40,male,2,269.395,Q,0,Adult,High,Not Survived
+1776,Chris Taylor,40,male,3,269.395,C,0,Adult,High,Not Survived
+1777,John Brown,40,female,3,269.395,C,1,Adult,High,Survived
+1778,David Taylor,3,male,2,269.395,S,0,Child,High,Not Survived
+1779,Chris Brown,40,female,1,269.395,S,0,Adult,High,Not Survived
+1780,David Brown,40,female,1,164.25,S,1,Adult,High,Survived
+1781,Emma Smith,40,female,2,269.395,Q,1,Adult,High,Survived
+1782,Sara Taylor,31,male,1,269.395,S,1,Adult,High,Survived
+1783,Chris Smith,47,female,3,269.395,S,0,Adult,High,Not Survived
+1784,Chris Brown,40,female,1,143.34,S,1,Adult,Medium,Survived
+1785,Sara Brown,20,female,2,269.395,Q,0,Adult,High,Not Survived
+1786,John Smith,41,male,3,269.395,C,0,Adult,High,Not Survived
+1787,Sophia Smith,56,female,2,269.395,C,0,Adult,High,Not Survived
+1788,David Brown,24,female,3,269.395,S,0,Adult,High,Not Survived
+1789,Emma Smith,40,male,2,269.395,Q,0,Adult,High,Not Survived
+1790,Sophia Brown,53,female,1,269.395,S,0,Adult,High,Not Survived
+1791,Alex Smith,28,male,2,415.14,Q,1,Adult,Very High,Survived
+1792,Sophia Smith,4,male,1,269.395,S,0,Child,High,Not Survived
+1793,David Smith,40,female,2,270.85,Q,1,Adult,High,Survived
+1794,John Smith,40,male,3,440.34,S,1,Adult,Very High,Survived
+1795,David Brown,14,female,1,154.41,S,0,Teen,High,Not Survived
+1796,Mary Brown,60,male,1,131.36,C,1,Adult,Medium,Survived
+1797,John Smith,40,male,3,72.94,S,1,Adult,Medium,Survived
+1798,Chris Brown,40,female,2,269.395,Q,1,Adult,High,Survived
+1799,David Brown,56,female,2,446.22,C,0,Adult,Very High,Not Survived
+1800,Chris Brown,40,female,3,250.38,S,0,Adult,High,Not Survived
+1801,Mary Taylor,40,male,3,213.07,Q,0,Adult,High,Not Survived
+1802,Chris Smith,40,female,1,269.395,S,0,Adult,High,Not Survived
+1803,Mary Smith,40,female,2,269.395,S,1,Adult,High,Survived
+1804,Sophia Smith,40,female,2,101.71,Q,0,Adult,Medium,Not Survived
+1805,Sara Taylor,40,female,3,63.89,Q,0,Adult,Medium,Not Survived
+1806,Alex Smith,40,female,3,269.395,C,0,Adult,High,Not Survived
+1807,David Taylor,40,female,2,269.395,C,1,Adult,High,Survived
+1808,Alex Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+1809,Emma Smith,21,male,1,82.36,Q,1,Adult,Medium,Survived
+1810,Sara Brown,40,female,3,405.26,C,0,Adult,Very High,Not Survived
+1811,Emma Smith,43,male,3,269.395,S,0,Adult,High,Not Survived
+1812,Sophia Taylor,40,female,1,269.395,Q,1,Adult,High,Survived
+1813,Alex Taylor,40,male,2,269.395,S,0,Adult,High,Not Survived
+1814,John Smith,40,male,2,472.52,S,1,Adult,Very High,Survived
+1815,Sophia Smith,78,female,2,269.395,Q,0,Senior,High,Not Survived
+1816,Chris Brown,30,female,3,269.395,Q,0,Adult,High,Not Survived
+1817,Chris Brown,11,male,1,269.395,Q,1,Child,High,Survived
+1818,Sara Smith,15,female,2,218.64,S,0,Teen,High,Not Survived
+1819,Mary Brown,3,female,1,269.395,S,0,Child,High,Not Survived
+1820,Chris Taylor,58,female,1,429.03,S,0,Adult,Very High,Not Survived
+1821,Chris Brown,65,female,1,269.395,S,1,Senior,High,Survived
+1822,John Taylor,49,female,1,168.84,S,0,Adult,High,Not Survived
+1823,Chris Taylor,40,male,2,322.5,Q,0,Adult,Very High,Not Survived
+1824,Sophia Smith,35,male,1,269.395,S,1,Adult,High,Survived
+1825,Sara Smith,40,female,2,269.395,S,1,Adult,High,Survived
+1826,Sophia Smith,40,female,1,404.77,S,1,Adult,Very High,Survived
+1827,Chris Taylor,37,female,1,481.33,C,0,Adult,Very High,Not Survived
+1828,Sophia Smith,40,male,1,269.395,S,0,Adult,High,Not Survived
+1829,Sophia Brown,68,female,3,425.51,S,0,Senior,Very High,Not Survived
+1830,David Taylor,30,male,1,175.32,C,1,Adult,High,Survived
+1831,John Brown,62,female,2,269.395,S,1,Senior,High,Survived
+1832,Emma Smith,40,male,3,269.395,S,1,Adult,High,Survived
+1833,David Brown,40,male,3,269.395,Q,1,Adult,High,Survived
+1834,Alex Taylor,63,female,1,269.395,S,1,Senior,High,Survived
+1835,John Smith,40,male,2,269.395,C,0,Adult,High,Not Survived
+1836,John Brown,6,female,2,190.52,Q,1,Child,High,Survived
+1837,Chris Taylor,30,female,1,37.52,S,0,Adult,Low,Not Survived
+1838,Emma Smith,4,female,2,73.03,S,1,Child,Medium,Survived
+1839,Emma Smith,75,female,1,269.395,C,1,Senior,High,Survived
+1840,Alex Brown,40,female,1,311.75,S,1,Adult,Very High,Survived
+1841,Sara Brown,40,female,2,269.395,S,0,Adult,High,Not Survived
+1842,Sophia Taylor,40,female,3,269.395,S,0,Adult,High,Not Survived
+1843,David Brown,60,female,3,457.01,S,0,Adult,Very High,Not Survived
+1844,Sara Taylor,40,male,3,377.03,Q,1,Adult,Very High,Survived
+1845,John Brown,80,female,1,269.17,C,0,Senior,High,Not Survived
+1846,Emma Taylor,42,male,1,220.23,C,0,Adult,High,Not Survived
+1847,John Brown,40,male,3,398.12,C,1,Adult,Very High,Survived
+1848,Alex Smith,40,female,3,236.34,C,1,Adult,High,Survived
+1849,David Brown,58,male,2,35.85,Q,1,Adult,Low,Survived
+1850,John Smith,49,female,3,295.95,S,0,Adult,High,Not Survived
+1851,Mary Smith,70,female,2,269.395,S,0,Senior,High,Not Survived
+1852,Emma Brown,10,female,3,269.395,Q,1,Child,High,Survived
+1853,David Taylor,28,female,3,82.59,Q,1,Adult,Medium,Survived
+1854,Emma Brown,40,female,3,154.89,S,1,Adult,High,Survived
+1855,Sara Smith,45,female,3,269.395,S,0,Adult,High,Not Survived
+1856,David Taylor,40,female,1,269.395,S,1,Adult,High,Survived
+1857,John Smith,40,female,3,279.46,S,1,Adult,High,Survived
+1858,Mary Taylor,40,male,2,410.05,S,1,Adult,Very High,Survived
+1859,Chris Brown,28,male,3,281.65,Q,1,Adult,High,Survived
+1860,Mary Taylor,42,female,3,269.395,S,1,Adult,High,Survived
+1861,Alex Brown,49,male,3,269.395,S,0,Adult,High,Not Survived
+1862,John Smith,7,female,2,136.47,Q,1,Child,Medium,Survived
+1863,Sophia Brown,40,female,1,269.395,C,1,Adult,High,Survived
+1864,Chris Taylor,40,female,3,269.395,Q,0,Adult,High,Not Survived
+1865,Sara Smith,18,female,1,328.2,C,1,Teen,Very High,Survived
+1866,Sophia Taylor,40,female,2,269.395,S,1,Adult,High,Survived
+1867,Sara Smith,42,female,3,269.395,Q,1,Adult,High,Survived
+1868,Alex Taylor,32,female,2,395.29,S,0,Adult,Very High,Not Survived
+1869,Mary Smith,79,female,3,269.395,Q,1,Senior,High,Survived
+1870,David Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+1871,Alex Smith,40,female,3,389.85,S,1,Adult,Very High,Survived
+1872,Sophia Brown,40,female,1,269.395,C,0,Adult,High,Not Survived
+1873,Chris Brown,40,male,3,269.395,C,1,Adult,High,Survived
+1874,John Taylor,2,male,3,398.97,S,1,Child,Very High,Survived
+1875,Alex Brown,59,male,3,290.3,S,1,Adult,High,Survived
+1876,Alex Taylor,75,female,3,269.395,C,0,Senior,High,Not Survived
+1877,Mary Brown,40,female,1,269.395,C,1,Adult,High,Survived
+1878,John Smith,40,male,2,269.395,C,1,Adult,High,Survived
+1879,Mary Taylor,45,female,2,301.0,Q,0,Adult,Very High,Not Survived
+1880,John Brown,53,female,1,382.48,S,1,Adult,Very High,Survived
+1881,Alex Taylor,40,female,2,488.87,S,1,Adult,Very High,Survived
+1882,Emma Smith,40,female,3,269.395,Q,0,Adult,High,Not Survived
+1883,Sophia Brown,40,female,3,269.395,Q,1,Adult,High,Survived
+1884,Mary Taylor,77,female,2,372.01,Q,1,Senior,Very High,Survived
+1885,David Smith,40,female,1,269.395,Q,0,Adult,High,Not Survived
+1886,David Smith,40,female,1,232.27,S,0,Adult,High,Not Survived
+1887,Sophia Brown,40,female,1,269.395,S,1,Adult,High,Survived
+1888,Sophia Taylor,66,male,3,269.395,S,0,Senior,High,Not Survived
+1889,David Brown,52,male,1,269.395,Q,1,Adult,High,Survived
+1890,Mary Smith,74,female,2,463.01,S,1,Senior,Very High,Survived
+1891,Sophia Brown,40,female,2,269.395,S,0,Adult,High,Not Survived
+1892,Sophia Smith,40,female,3,269.395,Q,0,Adult,High,Not Survived
+1893,Sara Smith,40,male,3,269.395,Q,0,Adult,High,Not Survived
+1894,Sara Taylor,40,male,2,269.395,S,0,Adult,High,Not Survived
+1895,Sophia Taylor,55,female,3,368.49,S,0,Adult,Very High,Not Survived
+1896,John Smith,40,female,3,294.11,C,1,Adult,High,Survived
+1897,Sara Smith,40,male,1,269.395,S,1,Adult,High,Survived
+1898,Chris Smith,38,female,3,269.395,S,1,Adult,High,Survived
+1899,Chris Brown,40,female,3,269.395,S,0,Adult,High,Not Survived
+1900,Mary Taylor,40,female,1,269.395,S,0,Adult,High,Not Survived
+1901,Chris Taylor,40,male,1,269.395,S,0,Adult,High,Not Survived
+1902,Sara Taylor,56,female,2,269.395,C,1,Adult,High,Survived
+1903,Sophia Brown,26,female,3,269.395,C,1,Adult,High,Survived
+1904,Chris Brown,72,female,3,269.395,S,1,Senior,High,Survived
+1905,John Brown,40,male,2,269.395,S,1,Adult,High,Survived
+1906,Emma Smith,5,male,3,269.395,Q,0,Child,High,Not Survived
+1907,Chris Taylor,40,female,1,193.03,Q,0,Adult,High,Not Survived
+1908,Emma Smith,21,female,3,269.395,Q,1,Adult,High,Survived
+1909,John Taylor,40,female,1,32.8,Q,0,Adult,Low,Not Survived
+1910,Sara Taylor,5,female,3,269.395,S,0,Child,High,Not Survived
+1911,Sophia Smith,30,female,1,353.36,Q,1,Adult,Very High,Survived
+1912,David Brown,40,female,3,269.395,S,0,Adult,High,Not Survived
+1913,Emma Taylor,11,female,1,342.75,C,1,Child,Very High,Survived
+1914,John Brown,34,male,2,269.395,S,1,Adult,High,Survived
+1915,Chris Brown,21,female,1,269.395,S,1,Adult,High,Survived
+1916,Sophia Smith,6,female,1,146.71,S,0,Child,Medium,Not Survived
+1917,Chris Smith,71,male,1,269.395,Q,1,Senior,High,Survived
+1918,Sara Taylor,40,female,2,269.395,S,1,Adult,High,Survived
+1919,John Taylor,40,female,1,279.83,Q,0,Adult,High,Not Survived
+1920,Sophia Brown,40,female,3,22.87,S,0,Adult,Low,Not Survived
+1921,John Brown,40,male,2,205.09,Q,0,Adult,High,Not Survived
+1922,Chris Taylor,40,female,2,180.38,Q,1,Adult,High,Survived
+1923,David Taylor,66,female,2,225.13,C,0,Senior,High,Not Survived
+1924,Emma Smith,40,male,1,296.01,Q,0,Adult,High,Not Survived
+1925,Chris Smith,31,female,2,56.63,S,0,Adult,Medium,Not Survived
+1926,Sara Taylor,24,female,2,381.89,S,0,Adult,Very High,Not Survived
+1927,Alex Brown,40,male,3,269.395,C,1,Adult,High,Survived
+1928,Sophia Taylor,10,male,1,269.395,Q,1,Child,High,Survived
+1929,Alex Taylor,40,female,2,269.395,S,1,Adult,High,Survived
+1930,John Smith,14,female,2,164.78,S,0,Teen,High,Not Survived
+1931,Mary Taylor,4,female,3,269.395,Q,0,Child,High,Not Survived
+1932,Mary Taylor,8,female,2,269.395,C,1,Child,High,Survived
+1933,Chris Taylor,40,female,1,146.17,C,0,Adult,Medium,Not Survived
+1934,Mary Brown,74,female,2,269.395,S,1,Senior,High,Survived
+1935,David Taylor,69,female,2,269.395,C,0,Senior,High,Not Survived
+1936,Chris Brown,40,female,1,140.89,Q,0,Adult,Medium,Not Survived
+1937,Sophia Smith,40,female,1,296.74,C,1,Adult,High,Survived
+1938,Chris Smith,40,male,3,269.395,S,0,Adult,High,Not Survived
+1939,Mary Brown,40,female,1,183.16,C,0,Adult,High,Not Survived
+1940,Mary Smith,16,female,3,350.6,S,1,Teen,Very High,Survived
+1941,Sara Taylor,40,female,3,269.395,S,0,Adult,High,Not Survived
+1942,Sophia Brown,30,male,1,269.395,Q,1,Adult,High,Survived
+1943,Emma Brown,31,female,2,312.09,S,1,Adult,Very High,Survived
+1944,Sophia Brown,40,female,2,269.395,C,0,Adult,High,Not Survived
+1945,John Smith,17,female,3,269.395,Q,0,Teen,High,Not Survived
+1946,Sara Brown,35,female,3,269.395,S,0,Adult,High,Not Survived
+1947,Chris Brown,32,male,3,269.395,S,0,Adult,High,Not Survived
+1948,Chris Brown,40,female,2,397.59,C,1,Adult,Very High,Survived
+1949,Chris Smith,40,female,1,269.395,S,1,Adult,High,Survived
+1950,John Taylor,40,male,2,441.23,C,1,Adult,Very High,Survived
+1951,Alex Brown,62,female,3,269.395,S,1,Senior,High,Survived
+1952,Chris Brown,37,female,2,269.395,C,0,Adult,High,Not Survived
+1953,David Brown,76,male,2,442.19,S,1,Senior,Very High,Survived
+1954,David Taylor,57,female,3,6.68,S,1,Adult,Low,Survived
+1955,Chris Taylor,75,female,3,269.395,S,0,Senior,High,Not Survived
+1956,David Brown,40,female,2,269.395,S,1,Adult,High,Survived
+1957,John Smith,57,female,3,269.395,C,1,Adult,High,Survived
+1958,Sophia Taylor,40,male,1,237.08,Q,1,Adult,High,Survived
+1959,Alex Taylor,40,female,3,269.395,C,0,Adult,High,Not Survived
+1960,Alex Brown,40,female,3,336.2,S,1,Adult,Very High,Survived
+1961,Chris Brown,8,male,2,43.69,S,0,Child,Low,Not Survived
+1962,Mary Taylor,40,female,2,113.3,Q,1,Adult,Medium,Survived
+1963,Emma Taylor,78,male,1,260.31,Q,0,Senior,High,Not Survived
+1964,Chris Smith,40,male,1,269.395,Q,1,Adult,High,Survived
+1965,Sophia Brown,20,female,2,269.395,Q,0,Adult,High,Not Survived
+1966,Sara Smith,40,male,2,325.69,C,0,Adult,Very High,Not Survived
+1967,Mary Smith,40,female,1,372.19,S,1,Adult,Very High,Survived
+1968,Sara Brown,35,male,3,269.395,C,0,Adult,High,Not Survived
+1969,Mary Taylor,40,female,3,269.395,S,1,Adult,High,Survived
+1970,Sophia Brown,57,female,1,462.64,S,0,Adult,Very High,Not Survived
+1971,Mary Smith,40,male,2,269.395,S,0,Adult,High,Not Survived
+1972,Chris Taylor,5,female,1,498.21,S,1,Child,Very High,Survived
+1973,Chris Taylor,40,female,3,276.12,S,0,Adult,High,Not Survived
+1974,Mary Brown,10,male,1,269.395,S,1,Child,High,Survived
+1975,David Brown,40,male,3,269.395,S,0,Adult,High,Not Survived
+1976,Chris Smith,59,male,3,54.84,Q,1,Adult,Medium,Survived
+1977,John Brown,40,male,2,337.59,Q,0,Adult,Very High,Not Survived
+1978,Chris Smith,55,female,2,265.0,S,0,Adult,High,Not Survived
+1979,John Smith,40,female,3,269.395,C,0,Adult,High,Not Survived
+1980,John Taylor,41,male,1,99.79,S,1,Adult,Medium,Survived
+1981,Sophia Taylor,40,male,2,349.98,Q,1,Adult,Very High,Survived
+1982,David Taylor,48,male,2,269.395,C,0,Adult,High,Not Survived
+1983,Mary Taylor,63,female,3,269.395,S,0,Senior,High,Not Survived
+1984,Alex Brown,40,female,2,269.395,C,1,Adult,High,Survived
+1985,Emma Taylor,40,female,2,475.07,S,1,Adult,Very High,Survived
+1986,Sophia Taylor,40,female,1,269.395,C,0,Adult,High,Not Survived
+1987,Sara Smith,40,female,1,269.395,S,1,Adult,High,Survived
+1988,Emma Smith,40,female,3,311.71,Q,1,Adult,Very High,Survived
+1989,Sophia Taylor,40,female,1,478.38,S,0,Adult,Very High,Not Survived
+1990,David Taylor,41,female,1,148.78,S,0,Adult,Medium,Not Survived
+1991,Mary Taylor,40,male,1,269.395,C,0,Adult,High,Not Survived
+1992,Chris Brown,40,female,3,175.24,S,1,Adult,High,Survived
+1993,Chris Brown,40,female,1,269.395,Q,0,Adult,High,Not Survived
+1994,Mary Taylor,27,female,3,152.36,C,1,Adult,High,Survived
+1995,Sara Brown,40,female,3,269.395,C,1,Adult,High,Survived
+1996,Emma Taylor,66,female,1,269.395,S,1,Senior,High,Survived
+1997,Alex Smith,40,male,1,357.93,S,1,Adult,Very High,Survived
+1998,John Brown,40,female,2,269.395,S,1,Adult,High,Survived
+1999,David Smith,31,male,2,192.44,C,0,Adult,High,Not Survived
+2000,Chris Brown,14,female,3,269.395,Q,1,Teen,High,Survived
