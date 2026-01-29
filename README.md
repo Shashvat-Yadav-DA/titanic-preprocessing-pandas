@@ -15,4 +15,3 @@ This project cleans an unclean Titanic dataset using **Python** and **Pandas** i
 
 * **Python**
 * **Pandas**
-* **Google Colab**
